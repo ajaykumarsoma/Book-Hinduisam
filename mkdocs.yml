@@ -1,0 +1,59 @@
+site_name: "Hinduism: A Complete Journey"
+site_description: "A comprehensive, AI-assisted scholarly exploration of Hinduism"
+site_author: "AI Scholar Team"
+site_url: "https://ajaykumarsoma.github.io/Book-Hinduisam"
+repo_url: "https://github.com/ajaykumarsoma/Book-Hinduisam"
+repo_name: "Book-Hinduisam"
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto Serif
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/om
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - attr_list
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Chapters:
+    - Chapter 1 - Prāṇa Pratiṣṭhā: chapters/chapter_01_prana_pratishtha.md

@@ -1,0 +1,12 @@
+# Book Rendering
+mkdocs>=1.6.0
+mkdocs-material>=9.5.0
+
+# Multi-Agent Framework (for future chapter generation)
+# Uncomment if you want to generate chapters using AI agents
+# crewai>=0.51.0
+# crewai-tools>=0.4.0
+# python-dotenv>=1.0.0
+# pyyaml>=6.0.1
+# rich>=13.7.0
+# typer>=0.12.0
