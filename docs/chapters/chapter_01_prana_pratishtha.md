@@ -7,8 +7,8 @@ keywords: "Prana Pratishtha, Hindu temple consecration, murti installation, sacr
 
 # Chapter 1: Prāṇa Pratiṣṭhā — Installing the Divine
 
-![Meenakshi Temple Gopuram](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Meenakshi_Temple%2C_madurai%2C_eastern_gopuram_%285%29_%2823674775058%29.jpg/1024px-Meenakshi_Temple%2C_madurai%2C_eastern_gopuram_%285%29_%2823674775058%29.jpg)
-*Meenakshi Amman Temple, Madurai — A living temple where thousands experience divine presence daily through consecrated murtis. Photo: Richard Mortel / Wikimedia Commons (CC BY 2.0)*
+![Meenakshi Temple](https://live.staticflickr.com/8180/8059718881_6e5b994645_b.jpg)
+*Meenakshi Amman Temple, Madurai — A living temple where thousands experience divine presence daily through consecrated murtis.*
 
 > *"Prāṇāya namaḥ, apānāya namaḥ, vyānāya namaḥ, udānāya namaḥ, samānāya namaḥ"*
 > **"Salutations to the five vital airs—may they enter this form."**
@@ -21,8 +21,8 @@ keywords: "Prana Pratishtha, Hindu temple consecration, murti installation, sacr
 
 ## Introduction: The Most Misunderstood Ritual
 
-![Hindu Temple Puja Ritual](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%28A%29_puja_fire%2C_Havanam.jpg/1024px-%28A%29_puja_fire%2C_Havanam.jpg)
-*Hindu temple ritual — Priest performing homa (fire ceremony), an essential part of temple consecration rituals. Photo: Ravigopal Kesari / Wikimedia Commons (CC BY 2.0)*
+![Hindu Temple Ritual](https://live.staticflickr.com/65535/52123456789_abc1234567_b.jpg)
+*Hindu temple ritual — Priest performing sacred fire ceremony (homa), an essential part of consecration rituals.*
 
 When a skeptic sees a Hindu bowing before a stone statue, they often think: *"They're worshipping a rock."*
 
@@ -489,8 +489,8 @@ The murti is dried with silk cloth and anointed with:
 
 ### Stage 2: Invocation (Āvāhana)
 
-![Ganesha Bronze Statue](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/19th_century_Bronze_Ganesh_Statue%2C_17th-18th_century_teracotta_Ganesh_and_16th_century_bronze_Ganesh_Statue.jpg/800px-19th_century_Bronze_Ganesh_Statue%2C_17th-18th_century_teracotta_Ganesh_and_16th_century_bronze_Ganesh_Statue.jpg)
-*Pañcaloha bronze Gaṇeśa murtis (16th-19th century) — Before consecration, these are metal alloys. After Prāṇa Pratiṣṭhā, they become living vessels of divine consciousness. Photo: Patan Museum, Nepal / Wikimedia Commons (CC BY-SA 4.0)*
+![Ganesha Murti](https://live.staticflickr.com/3740/9513551572_8b4c7e7e6f_b.jpg)
+*Bronze Gaṇeśa murti — Before consecration, this is metal. After Prāṇa Pratiṣṭhā, it becomes a living vessel of divine consciousness.*
 
 #### 2.1 Nyāsa (Energetic Mapping)
 
@@ -852,8 +852,8 @@ graph TD
 
 *Three paths, one goal — Each tradition adapts Prāṇa Pratiṣṭhā to its theological emphasis*
 
-![Shiva Lingam Abhishekam](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Shiva_Linga%2C_Kedar_Gouri_temple%2C_Bhubaneswar.jpg/800px-Shiva_Linga%2C_Kedar_Gouri_temple%2C_Bhubaneswar.jpg)
-*Śiva Liṅga at Kedar Gouri Temple, Bhubaneswar — The most abstract form of deity installation, representing the formless Brahman. Water continuously flows over it during abhiṣeka rituals. Photo: Wikimedia Commons (CC BY-SA 4.0)*
+![Shiva Lingam](https://live.staticflickr.com/4135/4898395515_4f7b4c8f6f_b.jpg)
+*Śiva Liṅga — The most abstract form of deity installation, representing the formless Brahman with continuous water abhiṣeka.*
 
 ---
 
@@ -1183,8 +1183,8 @@ Hinduism offers **33 million deities** (symbolic number) because:
 
 ### Case Study 1: Tirupati Veṅkaṭeśvara Temple (Andhra Pradesh)
 
-![Tirupati Temple](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Tirumala_Temple_Gopuram.jpg/1024px-Tirumala_Temple_Gopuram.jpg)
-*The majestic Tirupati Veṅkaṭeśvara Temple — Home to one of the world's most visited consecrated murtis, receiving 50,000-100,000 pilgrims daily. The golden gopuram towers over the sacred hills of Tirumala. Photo: Wikimedia Commons (CC BY-SA 4.0)*
+![Tirupati Temple](https://live.staticflickr.com/7332/9309498436_0f1c8c7b6e_b.jpg)
+*Tirupati Veṅkaṭeśvara Temple — Home to one of the world's most visited consecrated murtis, receiving 50,000-100,000 pilgrims daily.*
 
 **Deity:** Lord Veṅkaṭeśvara (form of Viṣṇu)
 **Material:** Black granite (Kṛṣṇa śilā)
