@@ -860,7 +860,7 @@ graph TD
 
 <!-- IMAGE PLACEHOLDER 4: Shiva Lingam with Abhishekam -->
 <!-- Replace IMAGE_URL_4 below with your image URL -->
-![Shiva Lingam Abhishekam](IMAGE_URL_4)
+![Shiva Lingam Abhishekam](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPtHtTDSyh-Vch_lDwUogsSuEtqUZw2uo5qw&s)
 *Śiva Liṅga — The most abstract form of deity installation, representing the formless Brahman with continuous water abhiṣeka.*
 
 ---
