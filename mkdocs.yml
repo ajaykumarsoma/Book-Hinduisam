@@ -10,6 +10,7 @@ site_dir: site
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: deep orange
@@ -24,19 +25,30 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   font:
-    text: Roboto Serif
+    text: Crimson Text
     code: Roboto Mono
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - navigation.tracking
     - search.highlight
     - search.suggest
+    - search.share
     - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - toc.follow
+    - toc.integrate
   icon:
     repo: fontawesome/brands/github
     logo: material/om
+  favicon: assets/favicon.png
+  language: en
 
 plugins:
   - search
@@ -44,16 +56,56 @@ plugins:
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
+  - md_in_html
   - tables
   - footnotes
   - toc:
       permalink: true
+      permalink_title: Anchor link to this section
+      toc_depth: 3
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ajaykumarsoma/Book-Hinduisam
+      name: Source Code on GitHub
+    - icon: fontawesome/solid/book
+      link: https://ajaykumarsoma.github.io/Book-Hinduisam
+      name: Read Online
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
+  - About:
+    - About This Book: about.md
+    - How It Was Written: methodology.md
+    - Contribute: contributing.md
   - Chapters:
+    - chapters/index.md
     - Chapter 1 - Prāṇa Pratiṣṭhā: chapters/chapter_01_prana_pratishtha.md
+  - Resources:
+    - Sanskrit Glossary: resources/glossary.md
+    - Bibliography: resources/bibliography.md
+    - Image Guide: resources/image-guide.md
+  - Download:
+    - PDF Version: download.md

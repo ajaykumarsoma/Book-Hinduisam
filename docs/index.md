@@ -1,25 +1,60 @@
 ---
 title: Home
+hide:
+  - navigation
+  - toc
 ---
 
-# 🕉️ Hinduism: A Complete Journey
+<div class="hero" markdown>
 
-> *"Ekam sat viprā bahudhā vadanti"*  
-> **"Truth is one; the wise call it by many names."**  
-> — Rig Veda 1.164.46
+<div class="om-symbol">🕉️</div>
+
+# Hinduism: A Complete Journey
+
+### *From the Vedas to the Living Tradition*
+
+> *"Ekam sat viprā bahudhā vadanti"*
+> **"Truth is one; the wise call it by many names."**
+> — Ṛg Veda 1.164.46
+
+[Start Reading](chapters/chapter_01_prana_pratishtha.md){ .md-button .md-button--primary }
+[About This Book](about.md){ .md-button }
+
+</div>
 
 ---
 
-## About This Book
+## 📖 A Living Scholarly Work
 
-This is a comprehensive, scholarly exploration of **Hinduism** — one of the world's oldest and most profound spiritual traditions.
+This is a comprehensive, open-access exploration of **Hinduism** — one of the world's oldest spiritual traditions, crafted by a multi-agent AI research team guided by human wisdom.
 
-Each chapter is crafted through a unique **multi-agent AI research process**, combining:
+<div class="grid cards" markdown>
 
-- 📚 **Scholarly rigour** — sourced from primary scriptures (Vedas, Upanishads, Bhagavad Gītā, Purāṇas, Āgamas)
-- 🌿 **Accessible prose** — written for seekers at all levels
-- 🔤 **Authentic Sanskrit** — with IAST transliteration and glossaries
-- 🔍 **Modern relevance** — connecting ancient wisdom to contemporary life
+-   :material-book-open-variant:{ .lg .middle } **Scholarly Rigor**
+
+    ---
+
+    Sourced from primary scriptures: Vedas, Upaniṣads, Bhagavad Gītā, Purāṇas, Āgamas
+
+-   :fontawesome-solid-language:{ .lg .middle } **Authentic Sanskrit**
+
+    ---
+
+    IAST transliteration, glossaries, and accurate Devanagari throughout
+
+-   :material-chart-timeline-variant:{ .lg .middle } **Modern Parallels**
+
+    ---
+
+    Connecting ancient wisdom with quantum physics, neuroscience, psychology
+
+-   :material-account-group:{ .lg .middle } **Accessible to All**
+
+    ---
+
+    Written for seekers at every level — no prerequisites required
+
+</div>
 
 ---
 
