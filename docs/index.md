@@ -28,33 +28,19 @@ hide:
 
 This is a comprehensive, open-access exploration of **Hinduism** — one of the world's oldest spiritual traditions, crafted by a multi-agent AI research team guided by human wisdom.
 
-<div class="grid cards" markdown>
+### ✨ Key Features
 
--   :material-book-open-variant:{ .lg .middle } **Scholarly Rigor**
+**📚 Scholarly Rigor**
+Sourced from primary scriptures: Vedas, Upaniṣads, Bhagavad Gītā, Purāṇas, Āgamas
 
-    ---
+**🔤 Authentic Sanskrit**
+IAST transliteration, glossaries, and accurate Devanagari throughout
 
-    Sourced from primary scriptures: Vedas, Upaniṣads, Bhagavad Gītā, Purāṇas, Āgamas
+**🔬 Modern Parallels**
+Connecting ancient wisdom with quantum physics, neuroscience, psychology
 
--   :fontawesome-solid-language:{ .lg .middle } **Authentic Sanskrit**
-
-    ---
-
-    IAST transliteration, glossaries, and accurate Devanagari throughout
-
--   :material-chart-timeline-variant:{ .lg .middle } **Modern Parallels**
-
-    ---
-
-    Connecting ancient wisdom with quantum physics, neuroscience, psychology
-
--   :material-account-group:{ .lg .middle } **Accessible to All**
-
-    ---
-
-    Written for seekers at every level — no prerequisites required
-
-</div>
+**👥 Accessible to All**
+Written for seekers at every level — no prerequisites required
 
 ---
 
