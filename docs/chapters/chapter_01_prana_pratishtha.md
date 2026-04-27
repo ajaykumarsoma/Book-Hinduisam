@@ -18,6 +18,9 @@ keywords: "Prana Pratishtha, Hindu temple consecration, murti installation, sacr
 
 ## Introduction: The Most Misunderstood Ritual
 
+![Hindu Temple Consecration Ceremony](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Consecration_of_idol_ceremony_in_Hindu_temple_in_Rajasthan%2C_india.jpg/800px-Consecration_of_idol_ceremony_in_Hindu_temple_in_Rajasthan%2C_india.jpg)
+*Prana Pratishtha ceremony in progress — A priest performs the eye-opening ritual, transforming stone into sacred presence. Photo: Wikimedia Commons (CC BY-SA 4.0)*
+
 When a skeptic sees a Hindu bowing before a stone statue, they often think: *"They're worshipping a rock."*
 
 When a scholar sees the same act, they might say: *"It's symbolic—a psychological aid."*
@@ -78,6 +81,21 @@ Hindu metaphysics operates on three levels:
 - The sun shines everywhere (Brahman)
 - A magnifying glass focuses sunlight to a point (Prana Pratishtha)
 - The focused beam can ignite a fire (spiritual transformation in the devotee)
+
+```mermaid
+graph TD
+    A[Brahman<br/>निर्गुण ब्रह्म<br/>Formless Absolute] --> B[Ishwara<br/>सगुण ब्रह्म<br/>Cosmic Intelligence]
+    B --> C[Prāṇa Pratiṣṭhā<br/>Consecration Ritual]
+    C --> D[Living Mūrti<br/>Divine Focal Point]
+    D --> E[Devotee Experience<br/>Darśana, Transformation]
+
+    style A fill:#f9d5a7,stroke:#d4a574,color:#000
+    style B fill:#e8c4a7,stroke:#c9a77d,color:#000
+    style C fill:#ffccaa,stroke:#d4a574,color:#000
+    style D fill:#ffa07a,stroke:#d97847,color:#000
+    style E fill:#ff8c69,stroke:#d97847,color:#fff
+```
+*The Flow of Consciousness: From the infinite Brahman to the finite murti through the ritual of Prāṇa Pratiṣṭhā*
 
 ---
 
@@ -229,6 +247,37 @@ When a priest invokes Gaṇeśa into a new murti, he's **tuning into this existi
 ## Part 2.5: Historical Evolution - From Vedic Fire to Temple Stone
 
 Prana Pratishtha didn't appear fully formed—it evolved over millennia, adapting to changing religious practices while preserving core principles.
+
+```mermaid
+timeline
+    title Evolution of Prāṇa Pratiṣṭhā (3,500 Years)
+    section Vedic Period
+        1500-500 BCE : Yajña (Fire Rituals)
+                     : No murtis, only fire
+                     : Deities as abstract forces
+    section Upaniṣadic
+        800-200 BCE : Internalized meditation
+                    : Pratīka (symbols) emerge
+                    : Seeds of consecration
+    section Āgamic
+        200 BCE-500 CE : Temple Hinduism born
+                       : First Pratiṣṭhā texts
+                       : Garbhagṛha architecture
+    section Medieval
+        500-1500 CE : Vaiṣṇava/Śaiva/Śākta divergence
+                    : Elaborate rituals codified
+                    : Regional schools established
+    section Colonial
+        1500-1947 CE : Decline under British rule
+                     : Missionary criticism
+                     : Village traditions persist
+    section Modern
+        1947-Present : Temple construction boom
+                     : Global diaspora temples
+                     : Scientific validation attempts
+```
+
+---
 
 ### The Vedic Period (1500–500 BCE): Ritual Without Icons
 
@@ -437,6 +486,9 @@ The murti is dried with silk cloth and anointed with:
 
 ### Stage 2: Invocation (Āvāhana)
 
+![Ganesha Statue](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Stone_statue_of_Ganesha_%28b%29.jpg/600px-Stone_statue_of_Ganesha_%28b%29.jpg)
+*Ancient Gaṇeśa murti (1275-1300 CE) from Java — Before consecration, this was carved stone. After Prāṇa Pratiṣṭhā, it became a living vessel of divine consciousness. Photo: Museum Volkenkunde / Wikimedia Commons (CC BY-SA 4.0)*
+
 #### 2.1 Nyāsa (Energetic Mapping)
 
 **Nyāsa** (न्यास) = "placing" — the priest **installs** different divine aspects into the murti through touch and mantra.
@@ -636,6 +688,54 @@ Each substance has a **specific energetic quality**.
 
 ---
 
+### Visual Summary: The Complete Prāṇa Pratiṣṭhā Process
+
+```mermaid
+flowchart TD
+    Start[Raw Stone/Metal/Wood] --> A[Stage 1: Preparation]
+
+    A --> A1[Select Murti<br/>108-unit Tāla system]
+    A1 --> A2[Purify Site<br/>Bhūmi Śuddhi, Vāstu Pūjā]
+    A2 --> A3[Purify Murti<br/>Pañcāmṛta Bath]
+
+    A3 --> B[Stage 2: Invocation]
+
+    B --> B1[Nyāsa<br/>6-limbed energy mapping]
+    B1 --> B2[Saṅkalpa<br/>Declaration of intent]
+    B2 --> B3[Dhyāna<br/>Visualization of deity]
+    B3 --> B4[Āvāhana<br/>Invitation to deity]
+    B4 --> B5[Prāṇa Sthāpana<br/>5 prāṇas installed]
+    B5 --> B6[Netronmīlana<br/>EYE OPENING]
+    B6 --> B7[Mantra Japa<br/>10,000-125,000 repetitions]
+
+    B7 --> C[Stage 3: Activation]
+
+    C --> C1[Homa<br/>Fire offering]
+    C1 --> C2[Abhiṣeka<br/>Sacred bath with intention]
+    C2 --> C3[Alaṅkāra<br/>Decoration & dressing]
+    C3 --> C4[Āratī<br/>Light offering - SEAL]
+
+    C4 --> D[Living Mūrti<br/>Ready for worship]
+
+    D --> E{Daily Pūjā<br/>Maintained?}
+    E -->|Yes| F[Energy Sustained<br/>Deity Present]
+    E -->|No| G[Energy Fades<br/>Becomes Inert]
+
+    F --> H[Devotee Darśana<br/>Blessings Flow]
+
+    style Start fill:#e8e8e8,stroke:#999,color:#000
+    style B6 fill:#ff6b6b,stroke:#c92a2a,color:#fff,stroke-width:3px
+    style C4 fill:#ffd43b,stroke:#f59f00,color:#000,stroke-width:3px
+    style D fill:#51cf66,stroke:#2f9e44,color:#000,stroke-width:3px
+    style F fill:#74c0fc,stroke:#1971c2,color:#000
+    style G fill:#aaa,stroke:#777,color:#fff
+    style H fill:#b197fc,stroke:#7950f2,color:#fff
+```
+
+*The full ritual journey: From raw material to living divine presence — each stage is essential.*
+
+---
+
 ### Stage 4: Maintenance (Nitya Puja)
 
 **Prana Pratishtha is not permanent unless maintained.**
@@ -718,6 +818,39 @@ In some Kashmiri Śaiva temples, the **priest becomes Śiva** during pratiṣṭ
 
 **Unique practice:**
 In Bengal, Durgā murtis for Durgā Pūjā are consecrated **temporarily** (for 10 days), then **de-consecrated** before immersion in the river. The ritual is called **Prāṇa Visarjana** (release of life-force)—the inverse of Pratiṣṭhā.
+
+---
+
+### Comparison: Three Great Traditions
+
+```mermaid
+graph TD
+    Root[Prāṇa Pratiṣṭhā<br/>Core Ritual] --> V[Vaiṣṇava]
+    Root --> S[Śaiva]
+    Root --> Sh[Śākta]
+
+    V --> V1[Avatāra Descent<br/>Viṣṇu incarnates]
+    V --> V2[Ekādaśī timing<br/>11th lunar day]
+    V --> V3[Tulasī essential<br/>Living plant worship]
+
+    S --> S1[Liṅga Installation<br/>Abstract form primary]
+    S --> S2[Rudrābhiṣeka<br/>Continuous water flow]
+    S --> S3[Bilva leaves<br/>No substitute]
+
+    Sh --> Sh1[Yantra Pratiṣṭhā<br/>Geometric diagram]
+    Sh --> Sh2[Midnight rituals<br/>Dark fortnight power]
+    Sh --> Sh3[Secret mantras<br/>Whispered bījas]
+
+    style Root fill:#f9f9f9,stroke:#333,stroke-width:3px,color:#000
+    style V fill:#87CEEB,stroke:#4682B4,color:#000
+    style S fill:#DDA0DD,stroke:#8B008B,color:#000
+    style Sh fill:#FFB6C1,stroke:#C71585,color:#000
+```
+
+*Three paths, one goal — Each tradition adapts Prāṇa Pratiṣṭhā to its theological emphasis*
+
+![Shiva Lingam](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lankeshwar_Temple_Shiva_Linga.jpg/600px-Lankeshwar_Temple_Shiva_Linga.jpg)
+*Consecrated Śiva Liṅga — The most abstract form of deity installation, representing the formless Brahman. Photo: Wikimedia Commons (CC BY-SA 3.0)*
 
 ---
 
@@ -1046,6 +1179,9 @@ Hinduism offers **33 million deities** (symbolic number) because:
 ## Part 9: Case Studies - Famous Consecrations
 
 ### Case Study 1: Tirupati Veṅkaṭeśvara Temple (Andhra Pradesh)
+
+![Tirupati Temple](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tirumala_090615.jpg/800px-Tirumala_090615.jpg)
+*The majestic Tirupati Veṅkaṭeśvara Temple — Home to one of the world's most visited consecrated murtis, receiving 50,000-100,000 pilgrims daily. Photo: Wikimedia Commons (CC BY-SA 4.0)*
 
 **Deity:** Lord Veṅkaṭeśvara (form of Viṣṇu)
 **Material:** Black granite (Kṛṣṇa śilā)
