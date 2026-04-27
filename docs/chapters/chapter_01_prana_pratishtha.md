@@ -675,6 +675,294 @@ graph TD
 
 ---
 
+### 📊 Comprehensive Comparison Table: Deva vs. Īśvara vs. Bhagavān vs. Brahman
+
+To avoid the common confusion between these terms, here is a **detailed taxonomic comparison**:
+
+| **Aspect** | **Deva (देव)** | **Īśvara (ईश्वर)** | **Bhagavān (भगवान्)** | **Mahādeva (महादेव)** | **Parameśvara (परमेश्वर)** | **Brahman (ब्रह्मन्)** |
+|------------|----------------|--------------------|-----------------------|------------------------|----------------------------|----------------------|
+| **Literal Meaning** | "The Shining One" | "The Controller" | "The Possessor of Opulences" | "Great Deity" | "Supreme Controller" | "The Vast, The Infinite" |
+| **Etymological Root** | दिव् (div) = to shine | ईश् (īś) = to rule, control | भग (bhaga) = opulence, fortune | महा (mahā) + देव = Great + Shining One | परम (parama) + ईश्वर = Supreme + Controller | बृह् (bṛh) = to expand, grow |
+| **Level of Reality** | **Functional operator** | **Organizing intelligence** | **Supreme Person** | **Supreme Personal Deity** | **Absolute Controller** | **Formless Absolute** |
+| **Power Scope** | **Limited to specific domain** (e.g., Agni governs fire, Vayu governs air) | **Regulates cosmic order** (Ṛta) | **Infinite in all 6 opulences** (wealth, strength, fame, beauty, knowledge, detachment) | **Highest personal form** with cosmic functions | **Absolute sovereignty** over all manifestation | **Infinite, limitless** — all-pervading consciousness |
+| **Relationship to Supreme** | **Servants/functionaries** under Bhagavān's command | **Executive function** of Bhagavān | **The Supreme Himself** | **Synonymous with Bhagavān** (honorific title) | **Synonymous with Bhagavān** (supreme aspect) | **The substrate** from which Bhagavān manifests |
+| **Examples** | **The 33 Devas:** 8 Vasus (Agni, Vayu, Prithvi, Apas, etc.), 11 Rudras (Prāṇas), 12 Ādityas (Sūrya, Indra, Varuṇa, etc.), 2 Aśvins | **Īśvara** as Cosmic Regulator (Bhagavad Gītā 18.61) | **Viṣṇu**, **Śiva**, **Devī** (Durgā, Lakṣmī), **Krishna**, **Rāma** | **Śiva** (as Mahādeva), **Viṣṇu** (as Mahā-Viṣṇu) | **Śiva** (as Parameśvara), **Viṣṇu** (as Paramātmā) | **Nirguṇa Brahman** (formless), **Saguṇa Brahman** (with attributes) |
+| **Form** | Can be **anthropomorphic** or **natural** (fire, wind, etc.) | **Formless organizing principle** or **cosmic form** (Virāṭ Puruṣa) | **Personal form** (human avatāra, iconic form) | **Personal form** with cosmic attributes | **Both personal and impersonal** | **Formless, attributeless** (Nirguṇa) or **with qualities** (Saguṇa) |
+| **Worship Type** | **Propitiation** (yajña, homa) to obtain specific boons | **Meditation** on cosmic order | **Bhakti** (devotional worship) | **Supreme devotion** (Śaiva or Vaiṣṇava traditions) | **Supreme devotion** (peak of bhakti) | **Jñāna** (knowledge), **Dhyāna** (meditation) |
+| **Accessibility** | **Highly accessible** through rituals, nature | **Accessible through** understanding cosmic laws | **Most accessible** through avatāras and Arcā forms | **Accessible through** intense devotion (bhakti) | **Accessible through** guru, scripture, grace | **Least accessible** — requires advanced meditation, Self-realization |
+| **In Temple Mūrti** | **Rarely** (subsidiary shrines, e.g., Navagraha) | **Not typically** installed | ✅ **YES — This is Arcā Avatāra** (main deity) | ✅ **YES** (e.g., Śiva in Jyotirlinga temples) | ✅ **YES** (supreme form in major temples) | ❌ **NO** (formless, cannot be iconized) |
+| **Scriptural Authority** | Ṛg Veda 1.164.46 ("Ekam sat viprā bahudhā vadanti") | Bhagavad Gītā 18.61 ("Īśvaraḥ sarva-bhūtānāṃ") | Viṣṇu Purāṇa 6.5.74 (six bhagās definition) | Śiva Purāṇa, Liṅga Purāṇa | Śvetāśvatara Upaniṣad 6.16 | Bṛhadāraṇyaka Upaniṣad 2.3.6 ("Brahma satyam") |
+| **Relationship to Karma** | **Dispense karma-phala** (fruits of action) in their domains | **Administers karma** across the cosmic system | **Transcends karma** — grants liberation (mokṣa) | **Transcends karma** — supreme liberator | **Beyond karma** — absolute freedom | **Karma does not apply** — beyond causation |
+| **Can Grant Mokṣa?** | ❌ **NO** — only domain-specific boons | ❌ **NO** — regulates, does not liberate | ✅ **YES** — ultimate refuge for liberation | ✅ **YES** — supreme goal of devotion | ✅ **YES** — absolute liberation | ✅ **YES** — realization IS mokṣa |
+
+---
+
+### 🔑 **Critical Distinction: Why Arcā Avatāra is BHAGAVĀN, Not a "Deva in Stone"**
+
+**This is the most important clarification for interfaith dialogue and correcting common misconceptions.**
+
+---
+
+#### ❌ **The Common Mistake:**
+
+Many people (including some Hindus!) assume:
+> *"The temple idol is a statue of a Deva (like Agni or Indra) carved in stone — it's just a symbol or representation."*
+
+**This is fundamentally wrong.**
+
+---
+
+#### ✅ **The Correct Understanding:**
+
+> **When we perform Prāṇa Pratiṣṭhā in a temple, we are NOT installing a "Deva" (functional deity like Agni or Vayu). We are inviting BHAGAVĀN HIMSELF — the Supreme Person (Viṣṇu, Śiva, or Devī) — to descend and accept worship in iconic form.**
+
+**This is called Arcā Avatāra (अर्चा अवतार) — "The Iconic Incarnation."**
+
+---
+
+#### 📚 **Scriptural Proof: Arcā Avatāra = Bhagavān, Not Deva**
+
+##### **1. Hayaśīrṣa Pāñcarātra (Āgama text):**
+
+> **Sanskrit:**
+> *अर्चायामेव च स्थानं श्रीविष्णोः परमात्मनः ।*
+> *arcāyām eva ca sthānaṃ śrī-viṣṇoḥ paramātmanaḥ |*
+>
+> **Translation:**
+> **"The Supreme Lord Viṣṇu Himself resides in the Arcā (consecrated image)."**
+
+**Not Agni. Not Vayu. Not Indra. But VIṢṆU — Bhagavān.**
+
+---
+
+##### **2. Nārada Pañcarātra:**
+
+> **Sanskrit:**
+> *अर्चाविग्रहे साक्षाद्भगवान् स्थितः ।*
+> *arcā-vigrahe sākṣād bhagavān sthitaḥ |*
+>
+> **Translation:**
+> **"Bhagavān Himself is directly present in the consecrated form."**
+
+**Key word: साक्षात् (sākṣāt) = "directly, in person" — not symbolically, not partially, but FULLY.**
+
+---
+
+##### **3. Brahma Saṃhitā 5.38:**
+
+> **Sanskrit:**
+> *प्रेमाञ्जनच्छुरितभक्तिविलोचनेन सन्तः सदैव हृदयेषु विलोकयन्ति ।*
+> *premāñjana-cchurita-bhakti-vilocanena santaḥ sadaiva hṛdayeṣu vilokayanti |*
+>
+> **Translation:**
+> **"Devotees whose eyes are anointed with the salve of love see Bhagavān in the deity form always."**
+
+**They don't see "a Deva" — they see BHAGAVĀN (Krishna, Viṣṇu).**
+
+---
+
+##### **4. Śrīmad Bhāgavatam 11.27.12:**
+
+> **Sanskrit:**
+> *अर्चायां हरिमीशितुः ।*
+> *arcāyāṃ harim īśituḥ |*
+>
+> **Translation:**
+> **"One should worship Hari (Viṣṇu/Krishna) in the deity form."**
+
+**Not "worship a Deva through a statue" — worship HARI (Bhagavān) IN the deity form.**
+
+---
+
+#### 🎯 **Why This Distinction Matters:**
+
+| **If you think the Mūrti is...** | **Then you would say...** | **Result** |
+|-----------------------------------|---------------------------|------------|
+| **A Deva (like Agni) in stone** | "Hindus worship nature spirits carved in stone" | ❌ **Completely misses the theology** |
+| **A symbol/representation** | "It's just a statue to help meditation" | ❌ **Contradicts Āgamic doctrine** |
+| **Bhagavān in Arcā Avatāra form** | "The Supreme has voluntarily descended into this form to be accessible" | ✅ **Correct Āgamic understanding** |
+
+---
+
+#### 🔄 **The Parallel: Human Avatāra vs. Arcā Avatāra**
+
+| **Aspect** | **Human Avatāra (e.g., Krishna)** | **Arcā Avatāra (e.g., Tirupati Balaji)** |
+|------------|-----------------------------------|-------------------------------------------|
+| **Who is present?** | **Bhagavān Viṣṇu** | **Bhagavān Viṣṇu** |
+| **Form** | Human body (born in Mathura) | Stone/metal Mūrti (consecrated in temple) |
+| **Purpose** | **Accessibility** for those living during that era | **Accessibility** for those living NOW |
+| **Limitation** | Confined to human form and lifespan (~125 years) | Confined to iconic form (permanent) |
+| **Voluntary?** | ✅ YES — *avatāra* = "descent" (voluntary) | ✅ YES — *saṅkalpa* = "sacred contract" (voluntary) |
+| **Can grant mokṣa?** | ✅ YES (Gītā 18.66: "Abandon all dharmas, surrender to Me alone") | ✅ YES (Pāñcarātra: "Same grace as Krishna in Dvārakā") |
+| **Worshipped as Supreme?** | ✅ YES ("Vāsudeva sarvam" — Gītā 7.19) | ✅ YES (Same devotion as living Krishna) |
+
+---
+
+#### 🕉️ **The Profound Implication:**
+
+**There is NO theological difference between:**
+1. Arjuna bowing before Krishna in Kurukṣetra (3000 BCE)
+2. A devotee bowing before Tirupati Balaji today (2025 CE)
+
+**Both are worshipping BHAGAVĀN — the Supreme Person — in accessible form.**
+
+**The only difference: Krishna's avatāra was temporary (human lifespan); Arcā Avatāra is permanent (as long as the temple stands and worship continues).**
+
+---
+
+### 🗂️ **Classification of Major Hindu Deities:**
+
+To avoid confusion, here is a **definitive classification** of major figures in Hindu tradition:
+
+#### **Category 1: DEVA (Functional Operators — The 33 Departments)**
+
+These are **NOT Supreme** — they are **functionaries** under Bhagavān's command.
+
+| **Deity** | **Function/Domain** | **Part of 33 Devas?** |
+|-----------|---------------------|-----------------------|
+| **Agni** | Fire, digestion, transformation | ✅ YES (Vasu) |
+| **Vayu** | Air, breath, movement | ✅ YES (Vasu) |
+| **Varuṇa** | Water, cosmic law | ✅ YES (Āditya) |
+| **Indra** | Rain, governance, king of Devas | ✅ YES (Āditya) |
+| **Sūrya** | Solar energy, time | ✅ YES (Āditya) |
+| **Chandra** | Moon, mind, tides | ✅ YES (Vasu) |
+| **Yama** | Death, dharma, justice | ✅ YES (in some lists) |
+| **Kubera** | Wealth, treasures | ❌ NO (Lokapāla, not one of 33) |
+| **The 11 Rudras** | Prāṇas (life-forces) | ✅ YES |
+| **The 2 Aśvins** | Healing, medicine | ✅ YES |
+
+**Key Point:** When you worship Agni in a homa (fire ritual), you are **NOT worshipping Agni as Supreme** — you are using Agni as a **messenger** to carry offerings to **Bhagavān**.
+
+---
+
+#### **Category 2: ĪŚVARA (Cosmic Controller)**
+
+This is the **organizing intelligence** that regulates the universe.
+
+| **Deity/Concept** | **Description** |
+|-------------------|-----------------|
+| **Īśvara** (generic) | The Controller of cosmic order (Ṛta) |
+| **Hiraṇyagarbha** | The Cosmic Mind, first-born intelligence |
+| **Virāṭ Puruṣa** | The Cosmic Person, macrocosmic form |
+
+**These are not separate beings — they are functional aspects of Bhagavān.**
+
+---
+
+#### **Category 3: BHAGAVĀN (The Supreme Person)**
+
+These are the **Supreme Deity** in various traditions. **All are considered Bhagavān** (not mere Devas).
+
+| **Deity** | **Tradition** | **Form** | **Bhagavān Status** |
+|-----------|---------------|----------|---------------------|
+| **Viṣṇu** | Vaiṣṇava | Transcendent form in Vaikuṇṭha | ✅ **Supreme Bhagavān** |
+| **Krishna** | Vaiṣṇava (Gauḍīya) | Human avatāra of Viṣṇu | ✅ **Bhagavān (pūrṇa avatāra)** |
+| **Rāma** | Vaiṣṇava | Human avatāra of Viṣṇu | ✅ **Bhagavān (pūrṇa avatāra)** |
+| **Narasiṃha** | Vaiṣṇava | Lion-man avatāra of Viṣṇu | ✅ **Bhagavān (avatāra)** |
+| **Śiva** | Śaiva | Transcendent form in Kailāsa | ✅ **Supreme Bhagavān (Mahādeva)** |
+| **Rudra** | Śaiva | Fierce aspect of Śiva | ✅ **Bhagavān (when referring to Śiva), Deva (when referring to the 11 Rudras as Prāṇas)** |
+| **Devī/Durgā** | Śākta | Supreme Goddess | ✅ **Supreme Bhagavān (Parā Śakti)** |
+| **Lakṣmī** | Vaiṣṇava | Consort of Viṣṇu | ✅ **Bhagavān (as Śrī, inseparable from Viṣṇu)** |
+| **Pārvatī** | Śaiva | Consort of Śiva | ✅ **Bhagavān (as Śakti, inseparable from Śiva)** |
+| **Sarasvatī** | Brahma-Vaiṣṇava | Goddess of knowledge | ✅ **Bhagavān (as aspect of Śakti)** |
+| **Gaṇeśa** | Smārta/Śaiva | Remover of obstacles | **Debated:** ✅ **Bhagavān** (in some Gāṇapatya sects) / ⚠️ **Mahādeva** (son of Śiva) |
+| **Kārtikeya/Murugan** | Śaiva (Tamil) | God of war, son of Śiva | **Debated:** ✅ **Bhagavān** (in Tamil Śaivism) / ⚠️ **Mahādeva** (subordinate to Śiva) |
+| **Hanumān** | Vaiṣṇava | Devotee of Rāma | ❌ **NOT Bhagavān** — ✅ **Mahā-bhakta** (supreme devotee), sometimes worshipped as **Rudra avatāra** |
+
+---
+
+#### **Category 4: MAHĀDEVA (Great Deity — Honorific for Bhagavān)**
+
+**"Mahādeva" is NOT a separate category** — it is an **honorific title** meaning "Great Deity," typically applied to **Śiva** or other forms of Bhagavān.
+
+| **Title** | **Applied To** | **Meaning** |
+|-----------|----------------|-------------|
+| **Mahādeva** | **Śiva** | "Great Deity" — Supreme form of Bhagavān in Śaiva tradition |
+| **Mahā-Viṣṇu** | **Viṣṇu** | "Great Viṣṇu" — Supreme form of Bhagavān in Vaiṣṇava tradition |
+| **Mahā-Kālī** | **Devī** | "Great Kālī" — Supreme form of Bhagavān in Śākta tradition |
+
+**Key Point:** Mahādeva = Bhagavān (just a different title emphasizing "greatness").
+
+---
+
+#### **Category 5: PARAMEŚVARA (Supreme Controller — Absolute Aspect of Bhagavān)**
+
+**"Parameśvara" = Parama (Supreme) + Īśvara (Controller)**
+
+This is the **highest personal aspect** of Bhagavān — the **Absolute Controller**.
+
+| **Title** | **Applied To** | **Meaning** |
+|-----------|----------------|-------------|
+| **Parameśvara** | **Śiva** (in Śaiva tradition) | "Supreme Controller" — Absolute form of Śiva |
+| **Paramātmā** | **Viṣṇu** (in Vaiṣṇava tradition) | "Supreme Self" — All-pervading aspect of Viṣṇu |
+| **Parā Śakti** | **Devī** (in Śākta tradition) | "Supreme Power" — Absolute form of the Goddess |
+
+**Key Point:** Parameśvara = The most exalted form of Bhagavān, bordering on formless Brahman.
+
+---
+
+#### **Category 6: BRAHMAN (The Formless Absolute)**
+
+**Brahman is NOT a deity** — it is the **infinite, formless substratum** of all existence.
+
+| **Concept** | **Description** |
+|-------------|-----------------|
+| **Nirguṇa Brahman** | Brahman without attributes (formless, beyond description) |
+| **Saguṇa Brahman** | Brahman with attributes (manifests as Bhagavān — Viṣṇu, Śiva, Devī) |
+
+**Advaita Vedānta:** Brahman is the only reality; Bhagavān and Devas are manifestations within māyā.
+**Viśiṣṭādvaita/Dvaita:** Bhagavān (Viṣṇu/Śiva) is the Supreme, and Brahman is His effulgence or essential nature.
+
+---
+
+### 📊 **Mermaid Diagram: The Complete Hierarchy**
+
+```mermaid
+graph TD
+    A[BRAHMAN ब्रह्मन् - The Formless Absolute] --> B[PARAMEŚVARA परमेश्वर - Supreme Controller]
+    B --> C[BHAGAVĀN भगवान् - The Supreme Person]
+    C --> D[MAHĀDEVA महादेव - Great Deity Honorific]
+    C --> E[AVATĀRA अवतार - Descent/Incarnation]
+    E --> F1[Human Avatāra - Rāma, Krishna]
+    E --> F2[Arcā Avatāra - Temple Mūrti]
+    C --> G[ĪŚVARA ईश्वर - Cosmic Controller]
+    G --> H[DEVA देव - Functional Operators]
+    H --> I1[8 Vasus - Elemental Infrastructure]
+    H --> I2[11 Rudras - Prāṇas Life-Forces]
+    H --> I3[12 Ādityas - Solar/Time Functions]
+    H --> I4[2 Aśvins - Healing]
+
+    style A fill:#fff4e6,stroke:#d97706,stroke-width:3px,color:#000
+    style B fill:#fef3c7,stroke:#d97706,stroke-width:2px,color:#000
+    style C fill:#fde68a,stroke:#d97706,stroke-width:2px,color:#000
+    style D fill:#fcd34d,stroke:#d97706,color:#000
+    style E fill:#fbbf24,stroke:#d97706,color:#000
+    style F1 fill:#f59e0b,stroke:#d97706,color:#000
+    style F2 fill:#f59e0b,stroke:#d97706,color:#000
+    style G fill:#d97706,stroke:#92400e,color:#fff
+    style H fill:#b45309,stroke:#92400e,color:#fff
+    style I1 fill:#92400e,stroke:#78350f,color:#fff
+    style I2 fill:#92400e,stroke:#78350f,color:#fff
+    style I3 fill:#92400e,stroke:#78350f,color:#fff
+    style I4 fill:#92400e,stroke:#78350f,color:#fff
+```
+
+*The Complete Hierarchy: From the Formless Absolute to Functional Operators*
+
+---
+
+**Key to the Diagram:**
+
+- **Top Layer (Lightest):** Brahman — Formless Absolute
+- **Second Layer:** Parameśvara/Bhagavān — Supreme Person
+- **Third Layer:** Avatāras (Human & Arcā) — Accessible manifestations of Bhagavān
+- **Fourth Layer:** Īśvara — Organizing intelligence
+- **Bottom Layer (Darkest):** Devas — The 33 functional operators
+
+**The critical insight:** When you worship a temple Mūrti (Arcā Avatāra), you are at the **Bhagavān level**, NOT the Deva level.
+
+---
+
 ## Part 5: The Technology of Prāṇa Pratiṣṭhā — Engineering the Divine Interface
 
 ---
