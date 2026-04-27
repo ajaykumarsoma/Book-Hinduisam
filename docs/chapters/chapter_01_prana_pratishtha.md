@@ -7,7 +7,9 @@ keywords: "Prana Pratishtha, Hindu temple consecration, murti installation, sacr
 
 # Chapter 1: Prāṇa Pratiṣṭhā — Installing the Divine
 
-![Meenakshi Temple](https://live.staticflickr.com/8180/8059718881_6e5b994645_b.jpg)
+<!-- IMAGE PLACEHOLDER 1: Meenakshi Temple Gopuram -->
+<!-- Replace IMAGE_URL_1 below with your image URL -->
+![Meenakshi Temple Gopuram](IMAGE_URL_1)
 *Meenakshi Amman Temple, Madurai — A living temple where thousands experience divine presence daily through consecrated murtis.*
 
 > *"Prāṇāya namaḥ, apānāya namaḥ, vyānāya namaḥ, udānāya namaḥ, samānāya namaḥ"*
@@ -21,7 +23,9 @@ keywords: "Prana Pratishtha, Hindu temple consecration, murti installation, sacr
 
 ## Introduction: The Most Misunderstood Ritual
 
-![Hindu Temple Ritual](https://live.staticflickr.com/65535/52123456789_abc1234567_b.jpg)
+<!-- IMAGE PLACEHOLDER 2: Hindu Temple Fire Ritual -->
+<!-- Replace IMAGE_URL_2 below with your image URL -->
+![Hindu Temple Fire Ritual](IMAGE_URL_2)
 *Hindu temple ritual — Priest performing sacred fire ceremony (homa), an essential part of consecration rituals.*
 
 When a skeptic sees a Hindu bowing before a stone statue, they often think: *"They're worshipping a rock."*
@@ -489,7 +493,9 @@ The murti is dried with silk cloth and anointed with:
 
 ### Stage 2: Invocation (Āvāhana)
 
-![Ganesha Murti](https://live.staticflickr.com/3740/9513551572_8b4c7e7e6f_b.jpg)
+<!-- IMAGE PLACEHOLDER 3: Bronze Ganesha Murti -->
+<!-- Replace IMAGE_URL_3 below with your image URL -->
+![Bronze Ganesha Murti](IMAGE_URL_3)
 *Bronze Gaṇeśa murti — Before consecration, this is metal. After Prāṇa Pratiṣṭhā, it becomes a living vessel of divine consciousness.*
 
 #### 2.1 Nyāsa (Energetic Mapping)
@@ -852,7 +858,9 @@ graph TD
 
 *Three paths, one goal — Each tradition adapts Prāṇa Pratiṣṭhā to its theological emphasis*
 
-![Shiva Lingam](https://live.staticflickr.com/4135/4898395515_4f7b4c8f6f_b.jpg)
+<!-- IMAGE PLACEHOLDER 4: Shiva Lingam with Abhishekam -->
+<!-- Replace IMAGE_URL_4 below with your image URL -->
+![Shiva Lingam Abhishekam](IMAGE_URL_4)
 *Śiva Liṅga — The most abstract form of deity installation, representing the formless Brahman with continuous water abhiṣeka.*
 
 ---
@@ -1183,7 +1191,9 @@ Hinduism offers **33 million deities** (symbolic number) because:
 
 ### Case Study 1: Tirupati Veṅkaṭeśvara Temple (Andhra Pradesh)
 
-![Tirupati Temple](https://live.staticflickr.com/7332/9309498436_0f1c8c7b6e_b.jpg)
+<!-- IMAGE PLACEHOLDER 5: Tirupati Temple Gopuram -->
+<!-- Replace IMAGE_URL_5 below with your image URL -->
+![Tirupati Venkateswara Temple](IMAGE_URL_5)
 *Tirupati Veṅkaṭeśvara Temple — Home to one of the world's most visited consecrated murtis, receiving 50,000-100,000 pilgrims daily.*
 
 **Deity:** Lord Veṅkaṭeśvara (form of Viṣṇu)
