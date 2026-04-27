@@ -30,19 +30,23 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    - navigation.expand
-    - navigation.top
-    - navigation.footer
-    - navigation.indexes
-    - navigation.tracking
-    - search.highlight
-    - search.suggest
-    - search.share
-    - content.code.copy
-    - content.code.annotate
-    - content.tabs.link
-    - toc.follow
-    - toc.integrate
+    # - navigation.expand  # REMOVED: This auto-expands all sections
+    - navigation.collapse  # ADDED: Enables collapsible navigation - click to expand/collapse
+    - navigation.instant  # ADDED: Instant loading without full page reload
+    - navigation.instant.prefetch  # ADDED: Prefetch pages on hover for faster loading
+    - navigation.instant.progress  # ADDED: Show progress bar for page loads
+    - navigation.top  # Back to top button
+    - navigation.footer  # Previous/Next page navigation
+    - navigation.indexes  # Section index pages
+    - navigation.tracking  # URL updates as you scroll
+    - search.highlight  # Highlight search terms
+    - search.suggest  # Search suggestions
+    - search.share  # Share search results
+    - content.code.copy  # Copy code button
+    - content.code.annotate  # Code annotations
+    - content.tabs.link  # Link content tabs
+    - toc.follow  # TOC follows scroll
+    - toc.integrate  # Integrate TOC into navigation
   icon:
     repo: fontawesome/brands/github
     logo: material/om
