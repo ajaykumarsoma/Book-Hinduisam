@@ -7,6 +7,9 @@ keywords: "Prana Pratishtha, Hindu temple consecration, murti installation, sacr
 
 # Chapter 1: Prāṇa Pratiṣṭhā — Installing the Divine
 
+![Meenakshi Temple Gopuram](https://upload.wikimedia.org/wikipedia/commons/3/39/Madurai_Meenakshi_Amman_Temple_Gopuram.jpg)
+*Meenakshi Amman Temple, Madurai — A living temple where thousands experience divine presence daily through consecrated murtis. Photo: Wikimedia Commons (CC BY-SA 4.0)*
+
 > *"Prāṇāya namaḥ, apānāya namaḥ, vyānāya namaḥ, udānāya namaḥ, samānāya namaḥ"*
 > **"Salutations to the five vital airs—may they enter this form."**
 > — Prana Pratishtha Mantra
@@ -18,7 +21,7 @@ keywords: "Prana Pratishtha, Hindu temple consecration, murti installation, sacr
 
 ## Introduction: The Most Misunderstood Ritual
 
-![Hindu Temple Consecration Ceremony](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Consecration_of_idol_ceremony_in_Hindu_temple_in_Rajasthan%2C_india.jpg/800px-Consecration_of_idol_ceremony_in_Hindu_temple_in_Rajasthan%2C_india.jpg)
+![Hindu Temple Consecration Ceremony](https://upload.wikimedia.org/wikipedia/commons/3/32/Consecration_of_idol_ceremony_in_Hindu_temple_in_Rajasthan%2C_india.jpg)
 *Prana Pratishtha ceremony in progress — A priest performs the eye-opening ritual, transforming stone into sacred presence. Photo: Wikimedia Commons (CC BY-SA 4.0)*
 
 When a skeptic sees a Hindu bowing before a stone statue, they often think: *"They're worshipping a rock."*
@@ -486,7 +489,7 @@ The murti is dried with silk cloth and anointed with:
 
 ### Stage 2: Invocation (Āvāhana)
 
-![Ganesha Statue](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Stone_statue_of_Ganesha_%28b%29.jpg/600px-Stone_statue_of_Ganesha_%28b%29.jpg)
+![Ganesha Statue](https://upload.wikimedia.org/wikipedia/commons/a/a8/Stone_statue_of_Ganesha_%28b%29.jpg)
 *Ancient Gaṇeśa murti (1275-1300 CE) from Java — Before consecration, this was carved stone. After Prāṇa Pratiṣṭhā, it became a living vessel of divine consciousness. Photo: Museum Volkenkunde / Wikimedia Commons (CC BY-SA 4.0)*
 
 #### 2.1 Nyāsa (Energetic Mapping)
@@ -849,7 +852,7 @@ graph TD
 
 *Three paths, one goal — Each tradition adapts Prāṇa Pratiṣṭhā to its theological emphasis*
 
-![Shiva Lingam](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lankeshwar_Temple_Shiva_Linga.jpg/600px-Lankeshwar_Temple_Shiva_Linga.jpg)
+![Shiva Lingam](https://upload.wikimedia.org/wikipedia/commons/b/b9/Lankeshwar_Temple_Shiva_Linga.jpg)
 *Consecrated Śiva Liṅga — The most abstract form of deity installation, representing the formless Brahman. Photo: Wikimedia Commons (CC BY-SA 3.0)*
 
 ---
@@ -1180,7 +1183,7 @@ Hinduism offers **33 million deities** (symbolic number) because:
 
 ### Case Study 1: Tirupati Veṅkaṭeśvara Temple (Andhra Pradesh)
 
-![Tirupati Temple](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Tirumala_090615.jpg/800px-Tirumala_090615.jpg)
+![Tirupati Temple](https://upload.wikimedia.org/wikipedia/commons/1/19/Tirumala_090615.jpg)
 *The majestic Tirupati Veṅkaṭeśvara Temple — Home to one of the world's most visited consecrated murtis, receiving 50,000-100,000 pilgrims daily. Photo: Wikimedia Commons (CC BY-SA 4.0)*
 
 **Deity:** Lord Veṅkaṭeśvara (form of Viṣṇu)
