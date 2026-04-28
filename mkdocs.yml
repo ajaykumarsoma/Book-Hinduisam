@@ -24,8 +24,8 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   font:
-    text: Crimson Text
-    code: Roboto Mono
+    text: Noto Serif  # More readable serif font, excellent for long-form content
+    code: Fira Code   # Better code font with ligatures
   features:
     - navigation.tabs
     - navigation.tabs.sticky

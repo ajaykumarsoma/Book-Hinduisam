@@ -1,66 +1,70 @@
-/* Wikipedia-style font sizing and readability improvements */
+/* Enhanced readability with LARGER fonts and better spacing */
 
-/* Main content area - reduce font size for Wikipedia-like readability */
+/* Main content area - INCREASE font size for better readability */
 .md-content {
-    font-size: 0.875rem;  /* 14px - Wikipedia's body text size */
-    line-height: 1.6;      /* Comfortable line spacing */
+    font-size: 1.125rem !important;  /* 18px - LARGER, very readable */
+    line-height: 1.8 !important;      /* More comfortable line spacing */
 }
 
-/* Headings - proportionally sized like Wikipedia */
+/* Headings - LARGER, more readable */
 .md-content h1 {
-    font-size: 1.75rem;    /* 28px */
-    line-height: 1.3;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-    border-bottom: 1px solid var(--md-default-fg-color--lightest);
-    padding-bottom: 0.3em;
+    font-size: 2.25rem !important;    /* 36px - BIG, clear chapter titles */
+    line-height: 1.3 !important;
+    margin-top: 1.5em !important;
+    margin-bottom: 0.5em !important;
+    border-bottom: 2px solid var(--md-accent-fg-color) !important;
+    padding-bottom: 0.4em !important;
+    font-weight: 700 !important;
 }
 
 .md-content h2 {
-    font-size: 1.5rem;     /* 24px */
-    line-height: 1.3;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-    border-bottom: 1px solid var(--md-default-fg-color--lightest);
-    padding-bottom: 0.2em;
+    font-size: 1.875rem !important;     /* 30px - Clear section headers */
+    line-height: 1.3 !important;
+    margin-top: 1.5em !important;
+    margin-bottom: 0.5em !important;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest) !important;
+    padding-bottom: 0.3em !important;
+    font-weight: 600 !important;
 }
 
 .md-content h3 {
-    font-size: 1.25rem;    /* 20px */
-    line-height: 1.4;
-    margin-top: 1.2em;
-    margin-bottom: 0.4em;
+    font-size: 1.5rem !important;    /* 24px - Readable subsections */
+    line-height: 1.4 !important;
+    margin-top: 1.2em !important;
+    margin-bottom: 0.4em !important;
+    font-weight: 600 !important;
 }
 
 .md-content h4 {
-    font-size: 1.1rem;     /* 17.6px */
-    line-height: 1.4;
-    margin-top: 1em;
-    margin-bottom: 0.4em;
+    font-size: 1.25rem !important;     /* 20px - Clear sub-subsections */
+    line-height: 1.4 !important;
+    margin-top: 1em !important;
+    margin-bottom: 0.4em !important;
+    font-weight: 500 !important;
 }
 
-/* Sidebar navigation - smaller, more compact like Wikipedia */
+/* Sidebar navigation - LARGER, more readable */
 .md-nav {
-    font-size: 0.8rem;     /* 12.8px - compact navigation */
-    line-height: 1.5;
+    font-size: 0.95rem !important;     /* 15.2px - easy to read */
+    line-height: 1.6 !important;
 }
 
 .md-nav__title {
-    font-size: 0.85rem;    /* Slightly larger for section titles */
-    font-weight: 700;
+    font-size: 1rem !important;    /* 16px - clear section titles */
+    font-weight: 700 !important;
 }
 
-/* Table of contents (right sidebar) - compact */
+/* Table of contents (right sidebar) - readable */
 .md-sidebar--secondary .md-nav {
-    font-size: 0.75rem;    /* 12px - very compact TOC */
+    font-size: 0.9rem !important;    /* 14.4px - readable TOC */
 }
 
-/* Tables - Wikipedia-style formatting */
+/* Tables - Larger, more readable */
 table {
-    font-size: 0.875rem;   /* Match body text */
-    border-collapse: collapse;
-    width: 100%;
-    margin: 1em 0;
+    font-size: 1rem !important;   /* 16px - clear and readable */
+    border-collapse: collapse !important;
+    width: 100% !important;
+    margin: 1.5em 0 !important;
 }
 
 table th {
@@ -76,14 +80,15 @@ table td {
     border: 1px solid var(--md-default-fg-color--lighter);
 }
 
-/* Blockquotes - Wikipedia citation style */
+/* Blockquotes - Larger, more readable */
 blockquote {
-    font-size: 0.875rem;
-    border-left: 3px solid var(--md-accent-fg-color);
-    padding-left: 1em;
-    margin-left: 0;
-    color: var(--md-default-fg-color--light);
-    font-style: italic;
+    font-size: 1.05rem !important;  /* 16.8px - readable quotes */
+    border-left: 4px solid var(--md-accent-fg-color) !important;
+    padding-left: 1.5em !important;
+    margin-left: 0 !important;
+    color: var(--md-default-fg-color--light) !important;
+    font-style: italic !important;
+    line-height: 1.7 !important;
 }
 
 /* Code blocks - slightly smaller */
@@ -95,15 +100,15 @@ pre code {
     font-size: 0.8rem;     /* 12.8px for code blocks */
 }
 
-/* Lists - comfortable spacing */
+/* Lists - LARGER with comfortable spacing */
 .md-content ul,
 .md-content ol {
-    font-size: 0.875rem;
-    line-height: 1.6;
+    font-size: 1.125rem !important;  /* 18px - match body text */
+    line-height: 1.8 !important;
 }
 
 .md-content li {
-    margin-bottom: 0.3em;
+    margin-bottom: 0.5em !important;
 }
 
 /* Links - Wikipedia blue style (optional) */
