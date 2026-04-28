@@ -1,0 +1,144 @@
+/* Wikipedia-style font sizing and readability improvements */
+
+/* Main content area - reduce font size for Wikipedia-like readability */
+.md-content {
+    font-size: 0.875rem;  /* 14px - Wikipedia's body text size */
+    line-height: 1.6;      /* Comfortable line spacing */
+}
+
+/* Headings - proportionally sized like Wikipedia */
+.md-content h1 {
+    font-size: 1.75rem;    /* 28px */
+    line-height: 1.3;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    padding-bottom: 0.3em;
+}
+
+.md-content h2 {
+    font-size: 1.5rem;     /* 24px */
+    line-height: 1.3;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    padding-bottom: 0.2em;
+}
+
+.md-content h3 {
+    font-size: 1.25rem;    /* 20px */
+    line-height: 1.4;
+    margin-top: 1.2em;
+    margin-bottom: 0.4em;
+}
+
+.md-content h4 {
+    font-size: 1.1rem;     /* 17.6px */
+    line-height: 1.4;
+    margin-top: 1em;
+    margin-bottom: 0.4em;
+}
+
+/* Sidebar navigation - smaller, more compact like Wikipedia */
+.md-nav {
+    font-size: 0.8rem;     /* 12.8px - compact navigation */
+    line-height: 1.5;
+}
+
+.md-nav__title {
+    font-size: 0.85rem;    /* Slightly larger for section titles */
+    font-weight: 700;
+}
+
+/* Table of contents (right sidebar) - compact */
+.md-sidebar--secondary .md-nav {
+    font-size: 0.75rem;    /* 12px - very compact TOC */
+}
+
+/* Tables - Wikipedia-style formatting */
+table {
+    font-size: 0.875rem;   /* Match body text */
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0;
+}
+
+table th {
+    background-color: var(--md-default-fg-color--lightest);
+    font-weight: 600;
+    padding: 0.6em 0.8em;
+    text-align: left;
+    border: 1px solid var(--md-default-fg-color--lighter);
+}
+
+table td {
+    padding: 0.6em 0.8em;
+    border: 1px solid var(--md-default-fg-color--lighter);
+}
+
+/* Blockquotes - Wikipedia citation style */
+blockquote {
+    font-size: 0.875rem;
+    border-left: 3px solid var(--md-accent-fg-color);
+    padding-left: 1em;
+    margin-left: 0;
+    color: var(--md-default-fg-color--light);
+    font-style: italic;
+}
+
+/* Code blocks - slightly smaller */
+code {
+    font-size: 0.85em;
+}
+
+pre code {
+    font-size: 0.8rem;     /* 12.8px for code blocks */
+}
+
+/* Lists - comfortable spacing */
+.md-content ul,
+.md-content ol {
+    font-size: 0.875rem;
+    line-height: 1.6;
+}
+
+.md-content li {
+    margin-bottom: 0.3em;
+}
+
+/* Links - Wikipedia blue style (optional) */
+.md-content a {
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+}
+
+.md-content a:hover {
+    border-bottom: 1px solid currentColor;
+}
+
+/* Adjust content width for better reading (Wikipedia is ~45-75 characters per line) */
+.md-content__inner {
+    max-width: 50rem;      /* ~800px - optimal reading width */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] table th {
+    background-color: var(--md-code-bg-color);
+}
+
+/* Print-friendly (for PDF generation) */
+@media print {
+    .md-content {
+        font-size: 11pt;
+    }
+    
+    .md-content h1 {
+        font-size: 18pt;
+    }
+    
+    .md-content h2 {
+        font-size: 16pt;
+    }
+}
