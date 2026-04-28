@@ -53,7 +53,40 @@ theme:
   language: en
 
 plugins:
-  - search
+  - search:
+      lang:
+        - en
+        - te
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+          site_name: "Hinduism: A Complete Journey"
+        - locale: te
+          name: తెలుగు (Telugu)
+          build: true
+          site_name: "హిందూ ధర్మం: సంపూర్ణ ప్రయాణం"
+          nav_translations:
+            Home: హోమ్
+            About: గురించి
+            About This Book: ఈ పుస్తకం గురించి
+            How It Was Written: ఇది ఎలా వ్రాయబడింది
+            Contribute: సహకరించండి
+            Chapters: అధ్యాయాలు
+            References: సూచనలు
+            Complete Bibliography: పూర్తి గ్రంథ సూచిక
+            Resources: వనరులు
+            Sanskrit Glossary: సంస్కృత శబ్ద కోశం
+            Bibliography: గ్రంథ సూచిక
+            Image Guide: చిత్ర మార్గదర్శి
+            Download: డౌన్‌లోడ్
+            PDF Version: PDF వెర్షన్
 
 markdown_extensions:
   - admonition
@@ -92,6 +125,13 @@ extra:
       link: https://ajaykumarsoma.github.io/Book-Hinduisam
       name: Read Online
   generator: false
+  alternate:
+    - name: English
+      link: /Book-Hinduisam/
+      lang: en
+    - name: తెలుగు (Telugu)
+      link: /Book-Hinduisam/te/
+      lang: te
 
 extra_css:
   - stylesheets/extra.css
