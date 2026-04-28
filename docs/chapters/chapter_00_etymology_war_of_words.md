@@ -105,6 +105,9 @@ In ancient **Germanic and Pagan European** traditions, **"God" (Gudą) was:**
 **Conceptual Description:**  
 A wooden or stone **pillar carved with the face** of a tribal protector, used as a **focal point for pouring ritual offerings**—**IDENTICAL** in function to a **Grama Devata** or a **Murti**.
 
+![Ancient Germanic wooden idol (Broddenbjerg Idol, c. 600 BCE)](https://upload.wikimedia.org/wikipedia/commons/f/f0/Broddenbjerg_Idol.JPG "Ancient Germanic wooden idol (Broddenbjerg Idol, c. 600 BCE)")
+*Figure 0.1 — The Broddenbjerg wooden idol from Denmark, an actual example of the kind of Gudą pillar described above. Source: Alexander Leischner, via Wikimedia Commons (CC BY-SA 3.0).* 
+
 ---
 
 ### **1.2: The Linguistic Hijack — How Christianity Stole the Word**
@@ -741,6 +744,9 @@ For thousands of years, **every major civilization** practiced this pattern.
 - **Household Deities** (Lares, Penates) — IDENTICAL to Grama Devatās
 - **Daily offerings** (incense, flowers, libations) — IDENTICAL to Hindu Nityapūjā
 
+![Roman household lararium fresco (mid-1st century BCE, Terzigno, Italy)](https://upload.wikimedia.org/wikipedia/commons/7/7d/Fresco_depicting_a_lararium_%28domestic_shrine%29_with_a_niche_and_an_altar_%2851356536057%29.jpg "Roman household lararium fresco (mid-1st century BCE, Terzigno, Italy)")
+*Figure 0.2 — Fresco of a Roman lararium (domestic household shrine) with altar and niche for the Lares and other deities, functionally identical to a Hindu pūjā room. Photo: Tyler Bell, via Wikimedia Commons (CC BY 2.0).* 
+
 **Philosophy:**
 - **Stoicism** — Taught that the universe was the **body of a Divine Intelligence** (similar to **Advaita Vedanta**)
 - **Neoplatonism** (Plotinus) — Taught **"The One"** (equivalent to **Brahman**)
@@ -865,6 +871,9 @@ Recent excavations at **Qaryat al-Faw** (Saudi Arabia) reveal **5,000-year-old t
 - **Idols** (deity statues)
 - **Fire altars**
 - **Vedic-style ritual worship**
+
+![Archaeological site of Qaryat al-Faw in Saudi Arabia](https://upload.wikimedia.org/wikipedia/commons/0/0f/%D9%85%D9%88%D9%82%D8%B9_%D8%A7%D9%84%D9%81%D8%A7%D9%88_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A.jpg "Archaeological site of Qaryat al-Faw in Saudi Arabia")
+*Figure 0.3 	— Ruins of Qaryat al-Faw, capital of the pre-Islamic Kindah kingdom, showing temple and settlement remains on the edge of the Empty Quarter. Image: Saudi Heritage Commission, via Wikimedia Commons (CC BY-SA 4.0).* 
 
 **Source:**
 > "Archaeological excavations... revealed temples with idols and ritual altars, indicating that **the entire Middle East once practiced Vedic-style worship**."
