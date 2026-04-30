@@ -543,6 +543,14 @@ The "naked ascetic" in the Darukāvana story is **NAṬARĀJA** (the Dancing Śi
 
 ---
 
+**VISUAL REPRESENTATION:**
+
+![Naṭarāja Holding Agni-Liṅga](../../images/chapter_09/nataraja_agni_linga.png)
+
+**Figure 1:** Naṭarāja (Dancing Śiva) performing the Ānanda-Tāṇḍava. Notice the **UPPER LEFT HAND holding the blazing Agni-Liṅga** (cosmic fire). This is the same fire-liṅga mentioned in the Darukāvana story of the Śiva Purāṇa. The four hands represent: (1) Upper right - Ḍamaru (creation), (2) **Upper left - Agni-Liṅga (destruction/transformation)**, (3) Lower right - Abhaya Mudrā (protection), (4) Lower left - Gajahaṣṭa Mudrā (liberation).
+
+---
+
 #### **The Darukāvana Episode: Full Context**
 
 **What Śiva Actually Did:**
