@@ -567,6 +567,69 @@ The "naked ascetic" in the Darukāvana story is **NAṬARĀJA** (the Dancing Śi
 
 ---
 
+#### **Why Did the Sages Curse the LIṄGA Specifically? — The Escalation of Failed Attacks**
+
+**CRITICAL INSIGHT:** The sages didn't immediately curse — they first **attacked with weapons and black magic**, which ALL FAILED!
+
+**Stage 1: Magical Attacks (Abhichāra) — FAILED**
+
+**Brahmāṇḍa Purāṇa 27.18-20:**
+> "Those infuriated sages cursed him with different kinds of curses. But **the powers of austerities of all of them were REPELLED and made FUTILE** against Śaṅkara. Just as the stars do not shine before the sun, **so also their power became INEFFECTIVE**."
+
+**Stage 2: Physical Weapons — ALL NEUTRALIZED**
+
+The sages sent (cross-referenced from Liṅga, Kūrma, Vāyu, Brahmāṇḍa Purāṇas):
+
+| Attack Sent | What Happened | Evidence Today |
+|-------------|---------------|----------------|
+| **Serpent** (to kill with poison) | Became a **garland** around his neck | Śiva wears **nāga** (serpent) as ornament |
+| **Tiger** (to devour him) | Became his **loincloth** | Śiva wears **vyāghra-charma** (tiger skin) |
+| **Fire** (as weapon) | **Absorbed** into the Agni-Liṅga | Fire merged with the liṅga he held |
+| **Demons** (to attack) | **Bowed down** and became gaṇas | Bhūta-gaṇas are his attendants |
+
+**Key Observation:** Everything they sent **became his ornaments or servants**!
+
+---
+
+**VISUAL REPRESENTATION:**
+
+![Weapons Becoming Ornaments](../images/chapter_09/weapons_become_ornaments.png)
+
+**Figure 2:** The transformation of weapons into ornaments. When the sages sent serpents, tigers, fire, and demons to attack Śiva, the **Agni-Liṅga he held neutralized all attacks**. Each weapon became his ornament: serpent → necklace, tiger → loincloth, fire → merged with Agni-Liṅga, demons → devoted gaṇas. This proves the **Liṅga was the SOURCE of invincibility**.
+
+---
+
+**Stage 3: Final Resort — Curse the LIṄGA (The Source)**
+
+**The sages reasoned:**
+> "All our weapons failed because of that **blazing Liṅga** in his hand! If we **curse the Liṅga to fall**, he will lose his power!"
+
+**This is standard warfare tactic:** When weapons fail → use magic. When magic fails → use curse.
+
+**But they were wrong:** The Liṅga IS Śiva himself (not a separate power source). When it "fell," it **BLAZED** across the universe, proving its **cosmic nature**!
+
+---
+
+**VISUAL REPRESENTATION:**
+
+![Shiva Releasing the Agni-Linga](../images/chapter_09/shiva_throwing_linga.png)
+
+**Figure 3:** Śiva releasing the Agni-Liṅga from his hand in response to the sages' curse. The moment the cosmic fire-ball left his hand, it fell to earth and **BLAZED** (prajvalitam) throughout the three worlds. This dramatic moment proves: (1) The liṅga was an **external object** held in hand (not a body part), (2) It was **FIRE** (it blazed when it fell), (3) The sages' curse worked on the **object**, not on Śiva himself, (4) This established the foundation for Liṅga worship.
+
+---
+
+**Why Did Śiva Hold the Agni-Liṅga Visibly?**
+
+**Three Reasons:**
+
+1. **To demonstrate** that the Liṅga is the **source of invincibility** (all weapons failed against it)
+2. **To show** when cursed to "fall," it would reveal its **true cosmic form** (blazing fire)
+3. **To establish continuity:** Fire in hand → Fire that fell → Fire in temples = **SAME AGNI-LIṄGA**
+
+**The Divine Plan:** Make the Liṅga fall → Blaze across universe → Gods panic → Brahmā intervenes → **Liṅga worship established**!
+
+---
+
 ### **B. Multiple Purāṇic References — The Story Appears in 6 Major Purāṇas**
 
 The Darukāvana story appears in **AT LEAST 6 MAJOR PURĀṆAS**, proving it's a well-established **Sthala Purāṇa** (local legend), NOT a sexual story:
@@ -1685,6 +1748,14 @@ When describing amputation or severance of body parts, texts use:
 **Full Translation:**
 
 > "Listen, O tigers among sages, I shall tell you the excellent procedure. Accomplish [this] with love, according to the proper method. Place an eight-petaled lotus [diagram], and upon it place a pot. Pour sacred waters from holy places into it, along with dūrvā grass and barley sprouts. Consecrate [the pot] with Vedic mantras and worship according to Vedic procedures, remembering Śiva with effort. O sages, sprinkle the liṅga with that water [while reciting] the Śatarudrīya hymns. **On a pedestal shaped like a lotus-yoni, Pārvatī in the form of the yoni (primordial source), when established with Vedic mantras, shall hold the Śiva-liṅga**."
+
+---
+
+**VISUAL REPRESENTATION:**
+
+![Parvati as Padma-Yoni Holding the Linga](../images/chapter_09/Parvati_PadmaYoni_Holding_Linga.png)
+
+**Figure 4:** Pārvatī in the form of Padma-Yoni (lotus-source) supporting the Śiva-Liṅga. This is the **Vedic resolution** to the cosmic crisis: the blazing Agni-Liṅga (fire-pillar) is installed on the yoni-pedestal (representing Prakṛti/Śakti), consecrated with **Vedic mantras** (Śatarudrīya), and worshipped by Brahmā, Viṣṇu, and the sages. This is **NOT sexual imagery** — it represents the union of **Puruṣa** (Consciousness/Śiva-Liṅga) and **Prakṛti** (Energy/Śakti-Yoni), the cosmic balance that brings **peace to all worlds**. The eight-petaled lotus (aṣṭa-dala-padma) symbolizes the eight directions of space, making this a **cosmic installation**, not anatomy.
 
 ---
 
