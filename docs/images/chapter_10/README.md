@@ -1,0 +1,103 @@
+# Chapter 10 Images
+
+This folder contains images for Chapter 10: The Gudimallam Liṅga - Sacred Geometry, Not Anatomy
+
+## Image Files:
+
+1. `Gudimallam_linga,_a_19th-century_replica_from_the_temple.jpg` - 19th century replica of the Gudimallam Liṅga showing the cylindrical pillar with carved Śiva figure (Figure 1)
+
+2. `gudimallam_lingam_illustration.png` - Detailed illustration of the Gudimallam Liṅga showing the Śiva Hunter figure in relief with anatomical details (Figure 2)
+
+3. `penis_on_lingam_fullLingam.png` - Close-up comparative view showing the Śiva figure's realistic penis versus the geometric Liṅga pillar structure (Figure 3)
+
+## Image Details:
+
+### Gudimallam Liṅga (19th Century Replica)
+
+**Source:** Historical temple replica  
+**Date:** 19th century (original from 2nd century BCE)  
+**Location:** Gudimallam, Andhra Pradesh, India  
+
+**Key Features Visible:**
+- Main cylindrical Liṅga pillar
+- Carved Śiva figure in relief on the front
+- Geometric pedestal (yoni-pīṭha)
+- Smooth hemispherical dome at top
+- Perfect cylindrical form
+
+**Why This Image is Critical:**
+
+This image is the **SMOKING GUN** that destroys the missionary claim that "the Liṅga is a penis."
+
+**On the SAME sculpture, you can see:**
+1. The main Liṅga pillar (geometric, abstract, cylindrical)
+2. The carved Śiva figure with an **anatomically accurate penis** visible
+
+**The two shapes are COMPLETELY DIFFERENT!**
+
+This proves the sculptor KNEW the difference between:
+- A penis (which he carved anatomically on Śiva's body)
+- A Liṅga (which he created as a perfect geometric pillar)
+
+**If the Liṅga represented a penis, why would he:**
+- Carve TWO different penis representations?
+- Make them COMPLETELY different shapes?
+- Show anatomical accuracy on the figure but geometric abstraction on the pillar?
+
+**Answer:** Because they represent DIFFERENT things!
+
+The Liṅga = Sacred geometric cosmic pillar  
+The penis = Anatomical male organ (on Śiva's body)
+
+---
+
+---
+
+### Gudimallam Lingam Illustration
+
+**Source:** Detailed artistic illustration
+**Purpose:** Educational analysis of the carved Śiva Hunter figure
+
+**Key Features Visible:**
+- Śiva Hunter (Bhikṣāṭana) figure in high relief
+- Realistic human anatomy including visible genitalia
+- Standing pose on demon/dwarf figure
+- Integration with geometric pillar structure
+
+**Why This Image is Critical:**
+
+Shows the masterful anatomical skill of the sculptor in depicting the human form realistically, which makes the geometric abstraction of the Liṅga pillar even more deliberate and intentional.
+
+---
+
+### Penis on Lingam - Full Lingam View
+
+**Source:** Comparative analysis illustration
+**Purpose:** Side-by-side visual comparison
+
+**What This Image Proves:**
+
+1. **Left side:** Realistic penis on Śiva figure (small, proportional, anatomically accurate)
+2. **Full view:** Geometric Liṅga pillar (massive, octagonal cross-section, abstract)
+
+**The Devastating Proof:**
+
+If the sculptor wanted to represent a penis, he clearly knew how to do it realistically (as shown on the figure). The fact that he chose a completely different geometric form for the main Liṅga proves they are DIFFERENT things.
+
+---
+
+## THE CHECKMATE ARGUMENT:
+
+**All three images together prove:**
+
+1. **Figure 1:** Shows the complete sculpture with both elements present
+2. **Figure 2:** Details the realistic anatomical skill of the sculptor
+3. **Figure 3:** Direct visual comparison showing two completely different shapes
+
+**The octagonal cross-section (8-sided geometric pillar) vs round biological organ is IMPOSSIBLE to explain as "accidental"!**
+
+The sculptor deliberately distinguished:
+- **Biological** (round, organic, realistic) = Śiva's human body
+- **Cosmological** (octagonal, geometric, symbolic) = The Liṅga pillar
+
+**Usage in Chapter:** These three images provide the complete visual refutation - anatomical comparison, geometric analysis, and side-by-side proof!
