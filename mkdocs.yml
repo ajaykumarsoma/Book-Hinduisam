@@ -80,6 +80,7 @@ plugins:
             Contribute: సహకరించండి
             Chapters: అధ్యాయాలు
             Chapter 10 - Gudimallam Linga Sacred Geometry (Lotus Blueprint): అధ్యాయం 10 - గుడిమల్లం లింగం పవిత్ర జ్యామితి (పద్మ నమూనా)
+            Chapter 11 - Universal Pillar Worship (Archaeological Evidence): అధ్యాయం 11 - సార్వత్రిక స్తంభ పూజ (పురావస్తు ఆధారాలు)
             References: సూచనలు
             Complete Bibliography: పూర్తి గ్రంథ సూచిక
             Resources: వనరులు
@@ -157,6 +158,7 @@ nav:
     - Chapter 8 - Wendy Doniger Criticisms (Question Bank): chapters/chapter_08_wendy_doniger_criticisms.md
     - Chapter 9 - Shiva Purana Linga Truth (Darukavana Refutation): chapters/chapter_09_shiva_purana_linga_truth.md
     - Chapter 10 - Gudimallam Linga Sacred Geometry (Lotus Blueprint): chapters/chapter_10_gudimallam_linga_sacred_geometry.md
+    - Chapter 11 - Universal Pillar Worship (Archaeological Evidence): chapters/chapter_11_universal_pillar_worship.md
   - References:
     - Complete Bibliography: references/bibliography.md
   - Resources:
