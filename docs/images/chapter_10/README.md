@@ -14,6 +14,8 @@ This folder contains images for Chapter 10: The Gudimallam Liṅga - Sacred Geom
 
 5. `BramhaSutra_PranaChannels.png` - Sacred Engineering diagram showing Brahmasūtra and Pañca Prāṇa circulation through the Liṅga (Figure 5)
 
+6. `Sutra_Tech.png` - Comparative Sūtra Technology diagram showing different Prāṇic architectures for Śiva, Viṣṇu, and Devī forms (Figure 6)
+
 ## Image Details:
 
 ### Gudimallam Liṅga (19th Century Replica)
@@ -160,16 +162,65 @@ After **Prāṇa Pratiṣṭhā** (life installation ritual), the Liṅga become
 
 ---
 
+### Sūtra Technology Comparison
+
+**Source:** Comparative sacred engineering diagram
+**Purpose:** Show different Prāṇic architectures across deities
+
+**Key Features Visible:**
+- Śiva Liṅga vertical Brahmasūtra (external, exposed)
+- Viṣṇu horizontal-orbital flow (internal, through arms/weapons)
+- Devī spiral-toroidal flow (spinal coil, Kuṇḍalinī)
+- Three universal sūtras (Brahma, Madhya, Pārśva)
+- Deity-specific energy flow patterns
+
+**What This Image Proves:**
+
+**ALL consecrated deities have Prāṇa channels, but geometry varies by cosmic function!**
+
+**Three Prāṇic Architectures:**
+
+1. **Śiva (Liṅga):** VERTICAL flow
+   - Brahmasūtra EXTERNAL (visible on surface)
+   - Direct ascent (Mokṣa/liberation)
+   - "Wiring exposed" - pure function, no decoration
+
+2. **Viṣṇu (Mūrti):** HORIZONTAL-ORBITAL flow
+   - Brahmasūtra INTERNAL (hidden in anatomy)
+   - Circular expansion (Rakṣā/protection)
+   - Śaṅkha/Cakra act as Prāṇa antennas
+
+3. **Devī (Mūrti):** SPIRAL-TOROIDAL flow
+   - Brahmasūtra SPINAL (Kuṇḍalinī coil)
+   - Pulsating rotation (Śakti/creative power)
+   - Toroidal field like galaxy
+
+**Why This Destroys "Penis" Claim:**
+- IF Liṅga were anatomy, why do OTHER deities have DIFFERENT sūtra geometries?
+- IF symbolic, why does geometry MATCH cosmic function (vertical=transcendence, orbital=preservation, spiral=creation)?
+- This is SYSTEMATIC SACRED SCIENCE, not random symbolism!
+
+**Material Science:**
+- Stone (granite/basalt) chosen for crystalline structure
+- Acts as piezoelectric material (pressure → electricity)
+- Can hold Prāṇa for THOUSANDS of years
+- Jyotirliṅgas hold Prāṇa for YUGAS (cosmic ages)!
+
+**This proves Śilā-Prāṇa-Pratiṣṭhā is REAL ENGINEERING - making stone organisms that survive millennia!**
+
+---
+
 ## THE COMPLETE PROOF:
 
-**All five images together prove:**
+**All six images together prove:**
 
 1. **Figure 1 (Temple Replica):** Shows complete historical artifact
 2. **Figure 2 (Illustration):** Details the realistic anatomy skill
 3. **Figure 3 (Comparison):** Visual proof of two different shapes
 4. **Figure 4 (Lotus Blueprint):** Reveals the actual biological model (LOTUS, not penis!)
 5. **Figure 5 (Prāṇa Channels):** Shows functional engineering (living yantra, not static symbol!)
+6. **Figure 6 (Sūtra Technology):** Proves systematic sacred science across all deities!
 
-**The progression from geometry → biology → engineering DESTROYS any anatomical claim!**
+**The progression from geometry → biology → engineering → comparative technology DESTROYS any anatomical claim!**
 
-**Usage in Chapter:** These five images provide the complete refutation - anatomical comparison, geometric analysis, biological blueprint, and functional sacred engineering!
+**Usage in Chapter:** These six images provide the complete refutation - anatomical comparison, geometric analysis, biological blueprint, functional sacred engineering, and systematic deity-specific Prāṇic architecture!
