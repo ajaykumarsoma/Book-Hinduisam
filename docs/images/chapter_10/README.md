@@ -10,6 +10,10 @@ This folder contains images for Chapter 10: The Gudimallam Liṅga - Sacred Geom
 
 3. `penis_on_lingam_fullLingam.png` - Close-up comparative view showing the Śiva figure's realistic penis versus the geometric Liṅga pillar structure (Figure 3)
 
+4. `lingam_lotus.png` - The Lotus Blueprint showing perfect correspondence between lotus anatomy and Liṅga geometry (Figure 4)
+
+5. `BramhaSutra_PranaChannels.png` - Sacred Engineering diagram showing Brahmasūtra and Pañca Prāṇa circulation through the Liṅga (Figure 5)
+
 ## Image Details:
 
 ### Gudimallam Liṅga (19th Century Replica)
@@ -100,4 +104,72 @@ The sculptor deliberately distinguished:
 - **Biological** (round, organic, realistic) = Śiva's human body
 - **Cosmological** (octagonal, geometric, symbolic) = The Liṅga pillar
 
-**Usage in Chapter:** These three images provide the complete visual refutation - anatomical comparison, geometric analysis, and side-by-side proof!
+---
+
+### Lingam-Lotus Correspondence
+
+**Source:** Sacred engineering diagram
+**Purpose:** Show the lotus blueprint for Liṅga design
+
+**Key Features Visible:**
+- Lotus cross-section with internal air ducts (Vāyu-randhra)
+- Fibrous threads (Mṛṇālasūtra) in lotus stem
+- Liṅga geometry with Brahmasūtra channels
+- Tri-bhāga division correspondence
+- Perfect anatomical mapping
+
+**Why This Image is Revolutionary:**
+
+This image proves the Liṅga is based on **LOTUS BIOLOGY**, not human anatomy!
+
+**The 5 Unique Lotus Features:**
+1. Padma-kośa (unopened bud) = perfectly symmetrical
+2. Aṣṭadalapadma (8 petals) = maps to 8 cosmic directions
+3. Internal sūtra (fiber threads) = Brahmasūtra manifestation
+4. Air channels (Vāyu-randhra) = Prāṇa nāḍīs
+5. Purity amidst impurity = transcendence symbolism
+
+**ONLY the lotus has ALL 5 features - making it the PERFECT biological model!**
+
+---
+
+### Brahmasūtra and Prāṇa Channels
+
+**Source:** Sacred Engineering functional diagram
+**Purpose:** Show how Prāṇa flows through consecrated Liṅga
+
+**Key Features Visible:**
+- Brahmasūtra as central Suṣumṇā Nāḍī
+- Five Prāṇa types and their flow directions
+- Tri-bhāga functional divisions
+- Directional alignment (4-sided base, 8-sided middle)
+- Energy circulation system
+
+**What This Image Proves:**
+
+After **Prāṇa Pratiṣṭhā** (life installation ritual), the Liṅga becomes a **LIVING YANTRA**!
+
+**The Five Prāṇas:**
+1. **Prāṇa** (upward ↑) - in Rudra-bhāga (head)
+2. **Apāna** (downward ↓) - in Brahmā-bhāga (base)
+3. **Samāna** (equalizing ⟷) - in Viṣṇu-bhāga (middle)
+4. **Vyāna** (pervasive ⊛) - through 8 directions
+5. **Udāna** (ascending ⇧) - at apex (liberation)
+
+**This is SACRED ENGINEERING - the stone becomes a divine battery with actual energy circulation!**
+
+---
+
+## THE COMPLETE PROOF:
+
+**All five images together prove:**
+
+1. **Figure 1 (Temple Replica):** Shows complete historical artifact
+2. **Figure 2 (Illustration):** Details the realistic anatomy skill
+3. **Figure 3 (Comparison):** Visual proof of two different shapes
+4. **Figure 4 (Lotus Blueprint):** Reveals the actual biological model (LOTUS, not penis!)
+5. **Figure 5 (Prāṇa Channels):** Shows functional engineering (living yantra, not static symbol!)
+
+**The progression from geometry → biology → engineering DESTROYS any anatomical claim!**
+
+**Usage in Chapter:** These five images provide the complete refutation - anatomical comparison, geometric analysis, biological blueprint, and functional sacred engineering!
