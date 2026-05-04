@@ -8,6 +8,12 @@
 
 ---
 
+![Sai Baba - Myth vs Reality](../images/chapter_13/saibaba_tue_myth.png)
+
+*Figure 1: The sanitized myth presented by modern Sai temples versus the historical reality documented in Sai Satcharitra itself. The truth has been hidden in plain sight within their own scripture.*
+
+---
+
 ### **The Escalating Claims**
 
 **The Pattern of Deception (1920-2024):**
@@ -508,6 +514,12 @@ In Bhagavad Gītā 9.23, Lord Krishna says:
 
 ---
 
+![Sai Baba Allowing Namaz in His Masjid](../images/chapter_13/saibaba_namaz.png)
+
+*Figure 2: Historical depiction based on Sai Satcharitra Chapter VII - "On Id festivals, He allowed Mahomedans to say their prayers (Namaj) in His Masjid." This is documented proof that Sai Baba permitted Islamic prayer in the space he controlled. Would any Hindu avatar allow Namaz in their sacred dwelling?*
+
+---
+
 #### **Evidence from Sai Satcharitra:**
 
 **Quote 23 (Chapter VII - Permitting Namaz in the Masjid):**
@@ -825,10 +837,22 @@ We've now shown you **31 direct quotes** from your own Sai Satcharitra. Not our 
 
 ---
 
+![Sai Baba Eating Meat and Fish](../images/chapter_13/saibaba_meat_eating.png)
+
+*Figure 3: Documentary depiction based on Sai Satcharitra Chapter VII - "He took meat and fish with Fakirs, but did not grumble when dogs touched the dishes with their mouths." This shocking admission from their own scripture proves Sai Baba violated the most fundamental requirement for a Hindu guru: vegetarianism and purity.*
+
+---
+
 #### **Evidence from Sai Satcharitra:**
 
 **Quote 32 (Chapter VII - Meat and Fish Eating):**
 > "**He took meat and fish with Fakirs**, but did not grumble when dogs touched the dishes with their mouths."
+
+![Sai Baba's Meat Eating Reality](../images/chapter_13/saibaba_eating meat.png)
+
+*Figure 6: Close-up evidence of the Tāmasic (ignorant) lifestyle - The meat and fish dishes that Sai Baba regularly consumed with Muslim fakirs, as admitted in Sai Satcharitra Chapter VII. Notice the dogs eating from the same dishes, exactly as described in their own scripture. This is the reality hidden from devotees who are shown only sanitized temple imagery.*
+
+---
 
 **Quote 33 (Chapter V - Smoking from First Meeting):**
 > "He had a cap on His head, wore Kafni (long robe) and had a 'Satka' (short stick) under His arm-pit and **He was preparing to smoke a Chilim (pipe)**."
@@ -841,6 +865,12 @@ We've now shown you **31 direct quotes** from your own Sai Satcharitra. Not our 
 
 **Quote 36 (Chapter L - Smoking as Blessing):**
 > "Balaram sat near Baba, messaging His Legs. **Baba Who was smoking a chillam advanced it towards him and beckoned him to smoke it.** Balaram was not accustomed to smoking, still he accepted the pipe, smoked it..."
+
+---
+
+![Sai Baba Smoking Tobacco](../images/chapter_13/saibaba_smoking.png)
+
+*Figure 4: Historical evidence of daily smoking habit - Sai Satcharitra mentions "chilim" and "tobacco" over 20 times as his constant companions. Quote 35 (Chapter VII): "Baba's paraphernalia consisted of a Chilim, tobacco..." Not only did he smoke daily, but he actively encouraged others to smoke (Quote 36, Chapter L). This violates all Hindu guru standards which forbid intoxication.*
 
 ---
 
@@ -1002,6 +1032,12 @@ We've now shown you **31 direct quotes** from your own Sai Satcharitra. Not our 
 **But what does the Quran (which Sai Baba's "Allah" comes from) actually say about Hindus and Hindu worship?**
 
 **We quote directly from the Quran. You can verify every verse.**
+
+---
+
+![Sai Baba Reading/Respecting Quran](../images/chapter_13/saibaba_reading_quran.png)
+
+*Figure 5: The Islamic theological foundation - Sai Baba's constant invocation "Allah Malik" refers to the Allah of the Quran. This same Quran calls Hindus "mushrikūn" (polytheists/idol worshippers) and declares them "worst of creatures" (Quran 98:6) destined for eternal hellfire. The Quran commands: "Kill the polytheists wherever you find them" (Quran 9:5). How can Hindus worship the Allah who declares war on them?*
 
 ---
 
