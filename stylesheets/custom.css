@@ -1,0 +1,149 @@
+/* Enhanced readability with LARGER fonts and better spacing */
+
+/* Main content area - INCREASE font size for better readability */
+.md-content {
+    font-size: 1.125rem !important;  /* 18px - LARGER, very readable */
+    line-height: 1.8 !important;      /* More comfortable line spacing */
+}
+
+/* Headings - LARGER, more readable */
+.md-content h1 {
+    font-size: 2.25rem !important;    /* 36px - BIG, clear chapter titles */
+    line-height: 1.3 !important;
+    margin-top: 1.5em !important;
+    margin-bottom: 0.5em !important;
+    border-bottom: 2px solid var(--md-accent-fg-color) !important;
+    padding-bottom: 0.4em !important;
+    font-weight: 700 !important;
+}
+
+.md-content h2 {
+    font-size: 1.875rem !important;     /* 30px - Clear section headers */
+    line-height: 1.3 !important;
+    margin-top: 1.5em !important;
+    margin-bottom: 0.5em !important;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest) !important;
+    padding-bottom: 0.3em !important;
+    font-weight: 600 !important;
+}
+
+.md-content h3 {
+    font-size: 1.5rem !important;    /* 24px - Readable subsections */
+    line-height: 1.4 !important;
+    margin-top: 1.2em !important;
+    margin-bottom: 0.4em !important;
+    font-weight: 600 !important;
+}
+
+.md-content h4 {
+    font-size: 1.25rem !important;     /* 20px - Clear sub-subsections */
+    line-height: 1.4 !important;
+    margin-top: 1em !important;
+    margin-bottom: 0.4em !important;
+    font-weight: 500 !important;
+}
+
+/* Sidebar navigation - LARGER, more readable */
+.md-nav {
+    font-size: 0.95rem !important;     /* 15.2px - easy to read */
+    line-height: 1.6 !important;
+}
+
+.md-nav__title {
+    font-size: 1rem !important;    /* 16px - clear section titles */
+    font-weight: 700 !important;
+}
+
+/* Table of contents (right sidebar) - readable */
+.md-sidebar--secondary .md-nav {
+    font-size: 0.9rem !important;    /* 14.4px - readable TOC */
+}
+
+/* Tables - Larger, more readable */
+table {
+    font-size: 1rem !important;   /* 16px - clear and readable */
+    border-collapse: collapse !important;
+    width: 100% !important;
+    margin: 1.5em 0 !important;
+}
+
+table th {
+    background-color: var(--md-default-fg-color--lightest);
+    font-weight: 600;
+    padding: 0.6em 0.8em;
+    text-align: left;
+    border: 1px solid var(--md-default-fg-color--lighter);
+}
+
+table td {
+    padding: 0.6em 0.8em;
+    border: 1px solid var(--md-default-fg-color--lighter);
+}
+
+/* Blockquotes - Larger, more readable */
+blockquote {
+    font-size: 1.05rem !important;  /* 16.8px - readable quotes */
+    border-left: 4px solid var(--md-accent-fg-color) !important;
+    padding-left: 1.5em !important;
+    margin-left: 0 !important;
+    color: var(--md-default-fg-color--light) !important;
+    font-style: italic !important;
+    line-height: 1.7 !important;
+}
+
+/* Code blocks - slightly smaller */
+code {
+    font-size: 0.85em;
+}
+
+pre code {
+    font-size: 0.8rem;     /* 12.8px for code blocks */
+}
+
+/* Lists - LARGER with comfortable spacing */
+.md-content ul,
+.md-content ol {
+    font-size: 1.125rem !important;  /* 18px - match body text */
+    line-height: 1.8 !important;
+}
+
+.md-content li {
+    margin-bottom: 0.5em !important;
+}
+
+/* Links - Wikipedia blue style (optional) */
+.md-content a {
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+}
+
+.md-content a:hover {
+    border-bottom: 1px solid currentColor;
+}
+
+/* Adjust content width for better reading (Wikipedia is ~45-75 characters per line) */
+.md-content__inner {
+    max-width: 50rem;      /* ~800px - optimal reading width */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] table th {
+    background-color: var(--md-code-bg-color);
+}
+
+/* Print-friendly (for PDF generation) */
+@media print {
+    .md-content {
+        font-size: 11pt;
+    }
+    
+    .md-content h1 {
+        font-size: 18pt;
+    }
+    
+    .md-content h2 {
+        font-size: 16pt;
+    }
+}
