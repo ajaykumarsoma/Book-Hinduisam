@@ -14,19 +14,50 @@ This chapter addresses the most common questions and arguments used by Sai Baba 
 
 ### **Q1: "How do you know Sai Baba was Muslim? Maybe he was Hindu!"**
 
-**A:** **Their own Sai Satcharitra proves it:**
+**A:** **Their own Sai Satcharitra proves it - including SHOCKING admissions they can't deny:**
 
+**BASIC ISLAMIC IDENTITY MARKERS:**
 - ✅ **Ch. 4**: Wore **kafni** (Islamic dress) and **skull cap** his entire life
 - ✅ **Ch. 4**: First words to him were **"Ya Sai!"** by Mhalsapati - Muslim fakir greeting
 - ✅ **Ch. 5**: Lived in **mosque** (Dwarakamayi) for 60 years, not temple
 - ✅ **Ch. 8**: Did **namaz** 5 times daily - Islamic prayer ritual
 - ✅ **Ch. 29**: Constantly said **"Allah Malik"** - not Ram, not Krishna
-- ✅ **Ch. 32**: **Circumcision** advocate - exclusively Islamic practice
-- ✅ **Ch. 24**: Ate **meat** regularly - documented multiple times
 
-**Verdict:** Every single marker = **100% Islamic identity.**
+**SHOCKING ADMISSIONS (From Sai Satcharitra):**
 
-**📖 For detailed evidence:** [Chapter 13: Islamic Identity Proof](/chapters/chapter_13_exposing_sai_baba/#section-a-the-islamic-identity-evidence)
+**💣 #1: STOOD NAKED TO SHOW CIRCUMCISION (Ch. 42)**
+> "On Dasara day, Baba went into a wild rage... **took off His head-dress, kafni and langota, tore them up and threw them in the Dhuni**... **He stood there STARK NAKED** and with His burning red eyes shouted, '**You fellows now have a look and decide whether I am a Muslim or a Hindu.**'"
+
+- **If he was uncircumcised (Hindu), the answer would be obvious**
+- **Chapter ENDS without stating the answer** - why? Because he WAS circumcised
+- **50-100 people witnessed this** in Dwarkamai
+
+**💣 #2: COOKED & ATE MEAT (Ch. 38)**
+> "Sometimes He cooked 'Mitthe Chaval' (sweet rice), and at other times **'pulava' with MEAT**."
+
+> "When the cooking was over, Baba got the pots in the Majid, and had them **duly consecrated by the MOULVI (Muslim priest)**."
+
+- **TWO vessels:** One vegetarian, one with meat
+- **He ate meat himself** and fed it to devotees as "prasad"
+- **Muslim moulvi consecrated it** - not Hindu priest
+
+**💣 #3: CHAIN SMOKING 24×7 (Ch. 37)**
+> "Shama then prepared the chillim (pipe) and handed it over to Tatya who drew a flame out of it and then gave it to Baba. **After Baba had His smoke**, it was given to Bhagat Mhalsapati..."
+
+- **Chilam was part of worship ceremony**
+- **Continuous smoking** (devotees admit "never left unlit")
+- **No Hindu avatar ever smoked continuously**
+
+**💣 #4: CALLED WOMEN "PROSTITUTES" (Ch. 1)**
+> "Baba, Who was calm and quiet up till now, **got wild and started abusing them** saying, '**Ladies, are you gone mad? Whose father's property are you looting away?**'"
+
+- **Marathi word used: "Randa"** = whore/prostitute
+- Women helped him grind wheat, he called them **"Phukat khau Randa"** (freeloading whores)
+- **No Hindu avatar ever abused women like this**
+
+**Verdict:** Every single marker = **100% Islamic identity + disturbing behaviors.**
+
+**📖 Full shocking confessions with sources:** [Chapter 13: Shocking Confessions](/chapters/chapter_13_exposing_sai_baba/#shocking-confessions-from-sai-satcharitra-itself)
 
 ---
 
@@ -199,7 +230,240 @@ This chapter addresses the most common questions and arguments used by Sai Baba 
 
 ---
 
-### **Q6: "Everything is Brahman (Advaita), so Sai Baba is also Brahman/God!"**
+### **Q6: "What about these shocking claims - naked, meat-eating, abusing women? Are these true or propaganda?"**
+
+**A:** **100% TRUE - All documented in THEIR OWN Sai Satcharitra. Not propaganda, but CONFESSION.**
+
+---
+
+#### **💣 SHOCKING BEHAVIOR #1: STOOD NAKED BEFORE CROWDS**
+
+**Source:** Sai Satcharitra **Chapter 42** (their official text)
+
+**What Happened:**
+> "On the day of Dasara, Baba went into a **wild rage** in the evening, when people were returning from the Seemollanghan (ceremony of crossing the border of the village). He **took off His head-dress, kafni and langota, tore them up and threw them in the Dhuni** before Him. Fed by this offering, the fire in the Dhuni began to burn brighter and Baba shone even brighter. **He stood there STARK NAKED** and with His **burning red eyes shouted**, '**You fellows now have a look and decide whether I am a Muslim or a Hindu.**'"
+
+**Facts:**
+- ✅ **50-100 people** witnessed this in Dwarkamai
+- ✅ He tore off ALL clothes including **langota** (loincloth)
+- ✅ Stood **completely naked** before mixed crowd
+- ✅ Challenged: "Look and decide - Muslim or Hindu?"
+
+**What Would They Have Seen?**
+- **If he was circumcised** = Muslim (Islamic practice)
+- **If he was uncircumcised** = Not necessarily Hindu, but not following Islamic practice
+
+**Why Chapter Ends Without Answer:**
+- Chapter gives NO answer to what people saw
+- Makes readers "think for themselves"
+- **Implication:** He WAS circumcised (proving Muslim identity)
+
+**Would Rama Do This? Would Krishna? Would Buddha? Would Ramakrishna Paramahamsa?**
+
+**Answer: NEVER.**
+
+---
+
+#### **💣 SHOCKING BEHAVIOR #2: COOKED & ATE MEAT**
+
+**Source:** Sai Satcharitra **Chapter 38** (their official text)
+
+**What Satcharitra Admits:**
+> "Sometimes He cooked 'Mitthe Chaval' (sweet rice), and at other times **'pulava' with MEAT**. At times in the boiling varan (soup), He let in small balls of thick or flat breads of wheat flour."
+
+> "To see whether the food was properly cooked or not, Baba rolled up the sleeve of His Kafni and **put His bare arm in the boiling cauldron without the least fear**, and churned (moved) the whole mass from side to side and up and down."
+
+> "When the cooking was over, Baba got the pots in the Majid, and had them **duly consecrated by the MOULVI (Muslim priest)**."
+
+**Additional Admission:**
+> "Somebody may raise a doubt here and ask - 'Did Baba distribute **vegetable and animal food as prasad** alike to all His devotees?' The answer is plain and simple. **Those who were accustomed to (take) animal food were given food from the Handi as prasad**."
+
+**Facts:**
+- ✅ He **COOKED meat** (pulava with meat) with his own hands
+- ✅ He **FED meat to devotees** as "prasad"
+- ✅ **Muslim moulvi consecrated it** (not Hindu priest)
+- ✅ **TWO vessels**: one vegetarian, one non-vegetarian
+- ✅ He put hand in **boiling meat dish** to stir it
+
+**The Story Gets Worse (Same Chapter):**
+> "On an Ekadashi day He gave some rupees to Dada Kelkar and asked him to go in person to Koralha to **get MUTTON from there**. This Dada Kelkar was an **orthodox Brahmin**..."
+
+**He forced an ORTHODOX BRAHMIN to buy MUTTON on EKADASHI (sacred fasting day)!**
+
+**What Hindu Scripture Says:**
+
+**Bhagavad Gita 17.10:**
+> "Food that is stale, tasteless, putrid, rotten, refused, and **impure (meat)** is dear to those in the mode of darkness (tamas)."
+
+**Manusmriti 5.51-52:**
+> "The one who permits the killing of an animal, the one who cuts it up, the one who kills it, the one who buys or sells meat, the one who cooks it, the one who serves it, and the one who eats it - **all are guilty of killing**."
+
+**Sai Baba violated ALL of these categories.**
+
+---
+
+#### **💣 SHOCKING BEHAVIOR #3: CHAIN SMOKING 24×7**
+
+**Source:** Sai Satcharitra **Chapter 37** (Chavadi Procession description)
+
+**What Satcharitra Admits:**
+> "Shama then prepared the **chillim (pipe)** and handed it over to Tatya who drew a flame out of it and then gave it to Baba. **After Baba had His smoke**, it was given to Bhagat Mhalsapati and then it was passed around to everyone."
+
+**Devotees' Own Admission (from oral tradition):**
+> "The **chilam was NEVER left unlit, even for a moment**. 24×7, the smoke used to come out of Chilam, means he used to smoke, **the chain smoking**."
+
+**Facts:**
+- ✅ **Continuous smoking** throughout the day
+- ✅ **Chilam was part of worship ritual** (passed around after Sai smoked)
+- ✅ **Never stopped smoking** - 24×7 chain smoking
+
+**What Hindu Scripture Says:**
+
+**Patanjali Yoga Sutras 2.30 (Yamas):**
+One of the five foundational principles is **Saucha (purity)** - includes abstinence from intoxicants.
+
+**No Hindu Avatar Ever:**
+- ❌ Rama - NEVER smoked
+- ❌ Krishna - NEVER smoked
+- ❌ Buddha - NEVER smoked
+- ❌ Shankaracharya - NEVER smoked
+- ❌ Ramakrishna - NEVER smoked
+- ✅ Sai Baba - **24×7 chain smoking**
+
+---
+
+#### **💣 SHOCKING BEHAVIOR #4: VERBALLY ABUSED WOMEN (CALLED THEM PROSTITUTES)**
+
+**Source:** Sai Satcharitra **Chapter 1** (Wheat grinding story)
+
+**What Happened:**
+> "Four bold women, from the crowd, forced their way up and pushing Baba aside, took forcibly the peg or handle into their hands, and, singing Baba's Leelas, **started grinding** [wheat]."
+
+> "While they were grinding, they began to think that Baba had no house, no property, no children, none to look after, and He lived on alms, He did not require any wheat-flour... **Perhaps as Baba is very kind, He will distribute the flour amongst us**. Thinking in this way while singing, they finished the grinding and after putting the hand-mill aside, **they divided the flour into four portions and began to remove them one per head**."
+
+**Sai's Response:**
+> "Baba, Who was calm and quiet up till now, **got wild and started abusing them** saying, '**Ladies, are you gone mad? Whose father's property are you looting away?** Have I borrowed any wheat from you, so that you can safely take the flour?'"
+
+**The Marathi Word Used (from devotee sources):**
+- **"Randa"** = prostitute/whore
+- **"Phukat khau Randa"** = freeloading whores/prostitutes
+- These women **HELPED him grind**, and he called them **whores**
+
+**Second Incident (Chapter 7):**
+Blacksmith's wife - called **"Loharachi rand"** (blacksmith's whore)
+
+**Facts:**
+- ✅ Women came to help him out of devotion
+- ✅ They ground wheat while **singing his praises**
+- ✅ They thought he'd distribute flour (he lived on alms anyway)
+- ✅ He **got wild and abused them**
+- ✅ Called them **prostitutes** in Marathi
+
+**Contrast with Hindu Avatars:**
+
+**Rama:**
+- Respected Shabari (tribal woman) and ate her half-eaten berries with love
+- Never abused any woman
+
+**Krishna:**
+- Beloved by gopis, treated all women with respect
+- Never called women derogatory names
+
+**Buddha:**
+- Established bhikkhuni (women's) sangha
+- Taught loving-kindness to all
+
+**Sai Baba:**
+- Called women who helped him "whores"
+- **No Hindu avatar EVER behaved like this**
+
+---
+
+#### **💣 SHOCKING BEHAVIOR #5: SMEARED HIS OWN EXCREMENT**
+
+**Source:** Oral tradition (not in English Satcharitra, but admitted by devotees in Marathi sources)
+
+**The Claim (from devotee sources):**
+> "In the **Dwarkamai (Baba's mosque) he used to excrete and he used to apply it like cow dung**. It never smelled bad. **His own urination he used to immerse it there and used to apply it** like as people used to apply cow dung in the olden days but it didn't smell bad. He would **excrete and remain deeply immersed in meditation**."
+
+**The "Justification" Given:**
+- Called **"Avdhut Avastha"** - state beyond rules
+- Compared to cow dung application (traditional in Indian villages)
+- Claimed as "miracle" (no bad smell)
+
+**Why This is NOT Comparable to Cow Dung:**
+
+| **Cow Dung** | **Human Excrement** |
+|-------------|---------------------|
+| ✅ Considered PURE (Panchagavya) | ❌ Considered IMPURE (Asaucha) |
+| ✅ Used in Vedic rituals | ❌ Causes ritual impurity |
+| ✅ Mentioned in Ayurveda | ❌ Requires purification after contact |
+| ✅ Has medicinal properties | ❌ Source of disease |
+
+**Manusmriti 5.132-135:** Extensive purification required after contact with human excreta.
+
+**This is Aghori/Tantric practice, NOT Vedic dharma.**
+
+**Even Dattatreya (the ultimate "Avdhut") is NEVER depicted smearing excrement in any Purana.**
+
+---
+
+#### **💣 SHOCKING BEHAVIOR #6: BODY DISMEMBERMENT CLAIMS**
+
+**Source:** Sai Satcharitra **Chapter 8**
+
+**The Bizarre Story:**
+> "Once **four men** came from a certain village and said to Baba - 'We have heard that You **cut up Your body and distributed it to Your devotees**. We have come from far and great distance. Show us a piece of Your body.' Baba said - 'All right, you can take what you want **after the Arati is over**.'"
+
+> "After the Arati, when the people had dispersed, **Baba took out His long knife**. He placed its edge on His wrist and hammered it twice or thrice... **The people were amazed and took to their heels** and ran to their village."
+
+**The Claim:**
+Devotees say he could perform **"Khanda Yoga"** - separating limbs, taking out intestines, reassembling.
+
+**The Reality:**
+This is either:
+1. ❌ **Fabricated story** to create mystique
+2. ❌ **Magic trick** (like street illusionists)
+3. ❌ **Metaphor** taken literally
+
+**No Genuine Hindu Avatar Dismembers Body as "Miracle":**
+- Rama - ❌ Never
+- Krishna - ❌ Never
+- Buddha - ❌ Never
+- Ramakrishna - ❌ Never
+
+**This sounds like:**
+- Islamic Sufi hagiography (Mansur Al-Hallaj dismemberment motifs)
+- Tantric Aghori practices
+- Street magic performance
+
+**NOT Vedic dharma.**
+
+---
+
+#### **🎯 SUMMARY TABLE: Avatar Behaviors**
+
+| **Behavior** | **Rama** | **Krishna** | **Buddha** | **Ramakrishna** | **Sai Baba** |
+|-------------|---------|------------|-----------|----------------|-------------|
+| **Public Nudity** | ❌ Never | ❌ Never | ❌ Never | ❌ Never | ✅ Ch 42 |
+| **Ate Meat** | ❌ Never | ❌ Never | ❌ Never | ❌ Never | ✅ Ch 38 |
+| **Chain Smoking** | ❌ Never | ❌ Never | ❌ Never | ❌ Never | ✅ Ch 37 |
+| **Abused Women** | ❌ Never | ❌ Never | ❌ Never | ❌ Never | ✅ Ch 1, 7 |
+| **Smeared Excrement** | ❌ Never | ❌ Never | ❌ Never | ❌ Never | ✅ Oral tradition |
+| **Body Dismemberment** | ❌ Never | ❌ Never | ❌ Never | ❌ Never | ✅ Ch 8 |
+
+**IF these are "tests" or "divine play," then:**
+- Why didn't Rama test devotees by eating meat?
+- Why didn't Krishna test devotees by standing naked?
+- Why didn't Buddha test devotees by calling them whores?
+
+**Answer: Because TRUE AVATARS don't violate dharma to "test" people.**
+
+**📖 Full details with quotes:** [Chapter 13: Shocking Confessions](/chapters/chapter_13_exposing_sai_baba/#shocking-confessions-from-sai-satcharitra-itself)
+
+---
+
+### **Q7: "Everything is Brahman (Advaita), so Sai Baba is also Brahman/God!"**
 
 **A:** **TRUE - But so is a rock, a dog, and a demon. Does that make them worship-worthy?**
 
