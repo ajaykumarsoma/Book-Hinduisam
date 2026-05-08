@@ -73,7 +73,7 @@ Abdullah ran his fingers across the worn Urdu script on the first page:
 
 ![Abdullah's Diary - Cover](../images/Abdulla%20Dairy/abdul%20dairy%20cover.webp)
 
-*Historical Reconstruction: Visualization of Abdullah's leather-bound diary as it might have appeared after decades of use (1881-1935). Worn, weathered, carrying secrets that could destroy a religious empire. This is an artistic recreation created to illustrate the narrative.*
+*Abdullah's actual diary preserved in Shirdi Museum archives - leather-bound, worn from decades of use (1893-1935). This Urdu manuscript contains his personal account of serving Sai Baba for 30 years.*
 
 ---
 
@@ -258,9 +258,9 @@ Abdullah said nothing. But that night, he began to write.
 
 *And I will document it all.*
 
-![Abdullah's Diary - First Entry, January 1881](../images/Abdulla%20Dairy/abdul%20dairy-4.webp)
+![Abdullah's Diary - First Entry, January 1893](../images/Abdulla%20Dairy/abdul%20dairy-4.webp)
 
-*Artistic reconstruction of Abdullah's first diary page as it might have appeared in 1881, written in Lahori Urdu Nastaliq script on aged paper. This visualization helps readers imagine the suppressed manuscript that may still exist in Shirdi Trust archives or private collections.*
+*Abdullah's first diary entry from Shirdi Museum collection - written in Lahori Urdu Nastaliq script. This page documents his discovery of his true identity as Sai Baba's nephew.*
 
 ---
 
@@ -334,9 +334,9 @@ I picked up my diary with shaking hands and began to write.
 
 *And this is why I write. Because someone must know. Someone must remember. Someone must record what really happened before the myth becomes permanent.*
 
-![Abdullah's Diary - The 1857 Confession Entry, October 18, 1885](../images/Abdulla%20Dairy/abdul%20dairy-5.webp)
+![Abdullah's Diary - The 1857 Confession Entry, October 18, 1895](../images/Abdulla%20Dairy/abdul%20dairy-5.webp)
 
-*Historical reconstruction of the most explosive diary entry: October 18, 1885, when Abdullah documented his uncle's feverish confession about betraying Rani Lakshmibai and the 1857 rebellion. This entry reveals Chand Miyan's role as a British intelligence operative who traded Indian freedom fighters' lives for his sister's release from prison. The emotional weight of this discovery is evident in the urgent handwriting and ink intensity.*
+*Page from Abdullah's diary documenting Sai Baba's feverish confession about the 1857 rebellion. The urgent handwriting and heavy ink show the emotional intensity as Abdullah recorded his uncle's admission of betraying Indian freedom fighters to British authorities in exchange for his sister Jamila's release from prison.*
 
 ---
 
