@@ -9,6 +9,27 @@
 
 ---
 
+## Table of Contents
+
+- [The Pindari Terror](#the-pindari-terror-islamic-plunderers-who-targeted-hindu-villages-1795-1818)
+- [Enter Wahruddin: The Afghan Jihadi Commander](#enter-wahruddin-the-afghan-jihadi-commander)
+- [The Transformation: From Jihadi Raider to Criminal Mastermind](#the-transformation-from-jihadi-raider-to-criminal-mastermind)
+- [1857: The Devil's Bargain](#1857-the-devils-bargain-free-your-sister)
+- [Chand Miyan: The Making of a Cunning Islamic Operative](#chand-miyan-the-making-of-a-cunning-islamic-operative)
+- [1857: The Great Betrayal - British Spy Against Rani Lakshmibai](#1857-the-great-betrayal-chand-becomes-british-spy-against-rani-lakshmibai)
+- [The Fall of Jhansi](#the-fall-of-jhansi-chands-role-in-rani-lakshmibais-death)
+- [The Final Transformation: From Spy to "Saint"](#the-final-transformation-from-spy-to-saint)
+- [The Two Stories: Divided Legacy](#the-two-stories-divided-legacy)
+- [The Historical Pattern: Islamic Raiders Become "Sufi Saints"](#the-historical-pattern-islamic-raiders-become-sufi-saints)
+- [Why Hindus Must Reject This "Saint"](#why-hindus-must-reject-this-saint)
+- [The Family Criminal Enterprise: Complete Summary](#the-family-criminal-enterprise-a-complete-summary)
+- [Evidence from Sai Satcharitra](#evidence-from-sai-satcharitra-the-dots-that-connect)
+- [The Pattern: What Satcharitra Cannot Hide](#the-pattern-what-satcharitra-cannot-hide)
+- [Summary: Why Everything Was Hidden](#summary-why-everything-was-hidden)
+- [The Final Questions](#the-final-questions)
+
+---
+
 ## The Pindari Terror: Islamic Plunderers Who Targeted Hindu Villages (1795-1818)
 
 ---
