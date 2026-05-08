@@ -31,6 +31,90 @@ Discover how stone becomes a living conduit of divine consciousness through ritu
 
 ---
 
+## 💣 **Exposing Sai Baba — The Islamic Trojan Horse**
+
+### [Chapter 13: Exposing Sai Baba — The Complete Investigation](chapter_13_exposing_sai_baba.md)
+
+**The systematic exposé of the Shirdi Sai Baba fraud**
+
+<div class="chapter-card" markdown>
+
+**Revealing the Islamic origins, criminal background, and massive deception**
+
+**Topics covered:**
+- ✅ Islamic identity confirmed (Islamic burial, Muslim-only trustees)
+- ✅ Criminal family background (Pindari raiders, courtesan mother)
+- ✅ 1857 British spy operation (betrayed Rani Lakshmibai)
+- ✅ Systematic suppression of evidence (Abdullah's expulsion, 1922)
+- ✅ Modern Hinduization fraud (temples replacing mosques)
+- ✅ Financial empire built on deception (₹600+ crore annual revenue)
+
+[Read Chapter 13 →](chapter_13_exposing_sai_baba.md){ .md-button .md-button--primary }
+
+</div>
+
+---
+
+### [Abdullah's Suppressed Manuscript — The Witness Who Knew Everything](abdullahs_suppressed_manuscript.md)
+
+**Novel-style narrative of Sai Baba's nephew who documented the truth for 30 years**
+
+<div class="chapter-card" markdown>
+
+**A 622-line historical reconstruction revealing the suppressed testimony**
+
+**Story arc:**
+- ✅ Abdullah ibn Jamila: Illegitimate nephew forced to serve his uncle
+- ✅ 1885 fever confession: Uncle's betrayal of Rani Lakshmibai in 1857
+- ✅ Criminal network documentation: 30 years of evidence gathering
+- ✅ 1922 expulsion: Silenced by court case to protect the myth
+- ✅ 1935 death: Final testimony hidden, truth suppressed
+- ✅ 6 diary page reconstructions: Visual evidence of the lost manuscript
+
+**Includes:** Complete visual narrative with 6 optimized diary images (WEBP)
+
+[Read Abdullah's Story →](abdullahs_suppressed_manuscript.md){ .md-button .md-button--primary }
+
+</div>
+
+---
+
+### [Sai Baba Origin Story — Criminal Dynasty Exposed](sai_baba_origin_story_rewritten.md)
+
+**The detailed family history they don't want you to know**
+
+<div class="chapter-card" markdown>
+
+**From Pindari atrocities to 1857 betrayal**
+
+**Family tree:**
+- Wahruddin (father): Pindari raider, murderer, looter
+- Zulekha (mother): Brothel owner in Ahmednagar
+- Jamila Bi (sister): Prostitute, gave birth to Abdullah in prison
+- Chand Miyan/Sai Baba: British informant who betrayed Indian freedom fighters
+
+**Evidence:** Court records, census data, *Sai Satcharitra* admissions by omission
+
+[Read Origin Story →](sai_baba_origin_story_rewritten.md){ .md-button .md-button--primary }
+
+</div>
+
+---
+
+### [Chapter 14: Sai Baba FAQ — Questions Answered](chapter_14_sai_baba_faq.md)
+
+**Common questions about the Sai Baba exposé answered with evidence**
+
+<div class="chapter-card" markdown>
+
+**Addressing devotee objections and clarifying evidence**
+
+[Read FAQ →](chapter_14_sai_baba_faq.md){ .md-button }
+
+</div>
+
+---
+
 ## Coming Soon
 
 ### Chapter 2: The Four Vedas

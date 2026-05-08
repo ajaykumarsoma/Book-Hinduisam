@@ -226,6 +226,13 @@ hide:
 **[Chapter 11: Universal Pillar Worship](chapters/chapter_11_universal_pillar_worship.md)**
 **[Chapter 12: Refuting Conspiracy Theories](chapters/chapter_12_refuting_conspiracy_theories.md)**
 
+### **Exposing Sai Baba — The Islamic Trojan Horse** 💣🔥
+
+**[Chapter 13: Exposing Sai Baba](chapters/chapter_13_exposing_sai_baba.md)** — Complete exposé of the fraud
+**[Abdullah's Suppressed Manuscript](chapters/abdullahs_suppressed_manuscript.md)** — The witness who documented everything (Novel-style, 622 lines)
+**[Sai Baba Origin Story Rewritten](chapters/sai_baba_origin_story_rewritten.md)** — Criminal dynasty: Pindari father, prostitute mother, 1857 betrayal
+**[Chapter 14: Sai Baba FAQ](chapters/chapter_14_sai_baba_faq.md)** — Questions answered with evidence
+
 ---
 
 ## 📊 **By The Numbers**
@@ -234,13 +241,14 @@ hide:
 
 | Metric | Count |
 |--------|-------|
-| **Total Chapters** | 12 comprehensive |
-| **Total Lines** | 10,000+ |
+| **Total Chapters** | 16 comprehensive |
+| **Total Lines** | 12,000+ |
 | **Liṅga Defense Lines** | 3,700+ (Chapters 9-12) |
+| **Sai Baba Exposé Lines** | 2,000+ (Chapters 13-14 + Abdullah) |
 | **Socratic Questions** | 100+ killer questions |
 | **Logical Traps** | 6 no-escape binds |
 | **Āgamic Citations** | 20+ Sanskrit ślokas |
-| **Images** | 16 archaeological/scientific |
+| **Images** | 22+ (16 Liṅga + 6 Abdullah diary) |
 | **Academic Sources** | 100+ citations |
 | **Archaeological Sites** | 20+ excavations |
 | **Civilizations Compared** | 7 cultures (pillar worship) |
