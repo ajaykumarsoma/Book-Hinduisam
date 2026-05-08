@@ -1266,6 +1266,8 @@ Because visiting a tomb with:
 
 ### **The Document That Proves Everything - Hidden for Decades**
 
+> **📖 For the complete story of the suppressed witness, see [Chapter 15: Abdullah's Suppressed Manuscript](chapter_15_abdullahs_suppressed_manuscript.md) — a novel-style reconstruction of the nephew who documented everything.**
+
 ---
 
 Remember Abdul Baba? The Muslim disciple who served Sai for 30 years (1889-1918)?
@@ -1644,6 +1646,8 @@ In 2014, Shankaracharya Swami Swaroopanand Saraswati - one of Hinduism's highest
 **His exact words (Times of India, July 15, 2014):**
 
 > **"There was a pindari (plunderer) named Waharuddin who came to Ahmednagar from Afghanistan. He had two children from a courtesan. One was named Chand Mian and the other was a girl. Chand Mian later became Sai Baba of Shirdi."**
+
+> **📖 For the complete criminal dynasty investigation, see [Chapter 16: Sai Baba Criminal Dynasty — Origin Story Exposed](chapter_16_sai_baba_origin_story_rewritten.md)**
 
 **Let that sink in.**
 

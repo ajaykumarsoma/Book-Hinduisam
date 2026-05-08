@@ -99,6 +99,8 @@ This chapter addresses the most common questions and arguments used by Sai Baba 
 
 **A:** **Unknown birth = Suspicious origin, not divine mystery.**
 
+> **📖 For the complete criminal dynasty investigation:** [Chapter 16: Sai Baba Criminal Dynasty — Origin Story Exposed](chapter_16_sai_baba_origin_story_rewritten.md)
+
 **Facts:**
 - ✅ Found under neem tree as teenager - **no witnesses to birth**
 - ✅ **Zero childhood documentation** - unlike Ram/Krishna who had documented births
@@ -137,6 +139,7 @@ This chapter addresses the most common questions and arguments used by Sai Baba 
 - ✅ Author: Hemadpant (Dabholkar) - **devoted follower**, not objective historian
 - ✅ **Hagiography** (saint-glorification), not biography
 - ✅ Goal: **Hinduize** him to make acceptable to Hindu masses
+- ✅ **1922**: Same year Abdullah (his nephew) was expelled and manuscript suppressed ([See Chapter 15](chapter_15_abdullahs_suppressed_manuscript.md))
 
 **Problem 2: The "Prophecy" Book Appeared in 2001**
 - ✅ *Sripad Srivallabha Charitamrutam* supposedly "hidden 700 years"

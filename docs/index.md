@@ -229,9 +229,9 @@ hide:
 ### **Exposing Sai Baba — The Islamic Trojan Horse** 💣🔥
 
 **[Chapter 13: Exposing Sai Baba](chapters/chapter_13_exposing_sai_baba.md)** — Complete exposé of the fraud
-**[Abdullah's Suppressed Manuscript](chapters/abdullahs_suppressed_manuscript.md)** — The witness who documented everything (Novel-style, 622 lines)
-**[Sai Baba Origin Story Rewritten](chapters/sai_baba_origin_story_rewritten.md)** — Criminal dynasty: Pindari father, prostitute mother, 1857 betrayal
 **[Chapter 14: Sai Baba FAQ](chapters/chapter_14_sai_baba_faq.md)** — Questions answered with evidence
+**[Chapter 15: Abdullah's Suppressed Manuscript](chapters/chapter_15_abdullahs_suppressed_manuscript.md)** — The witness who documented everything (Novel-style, 622 lines, 6 diary images)
+**[Chapter 16: Sai Baba Criminal Dynasty](chapters/chapter_16_sai_baba_origin_story_rewritten.md)** — Pindari father, prostitute mother, 1857 betrayal revealed
 
 ---
 
@@ -244,7 +244,7 @@ hide:
 | **Total Chapters** | 16 comprehensive |
 | **Total Lines** | 12,000+ |
 | **Liṅga Defense Lines** | 3,700+ (Chapters 9-12) |
-| **Sai Baba Exposé Lines** | 2,000+ (Chapters 13-14 + Abdullah) |
+| **Sai Baba Exposé Lines** | 2,000+ (Chapters 13-16) |
 | **Socratic Questions** | 100+ killer questions |
 | **Logical Traps** | 6 no-escape binds |
 | **Āgamic Citations** | 20+ Sanskrit ślokas |

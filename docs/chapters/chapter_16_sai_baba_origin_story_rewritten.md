@@ -1,4 +1,13 @@
-# THE BRUTAL TRUTH: From Islamic Jihadi Raider to "Saint"
+# Chapter 16: Sai Baba Criminal Dynasty — The Brutal Truth Exposed
+
+## From Islamic Jihadi Raider to "Saint" — The Pindari Terror and Criminal Origins
+
+> **📖 Related Chapters:**
+> [Chapter 13: Exposing Sai Baba](chapter_13_exposing_sai_baba.md) — The complete exposé with documentary evidence
+> [Chapter 15: Abdullah's Suppressed Manuscript](chapter_15_abdullahs_suppressed_manuscript.md) — The witness who documented everything
+> [Chapter 14: Sai Baba FAQ](chapter_14_sai_baba_faq.md) — Questions answered
+
+---
 
 ## The Pindari Terror: Islamic Plunderers Who Targeted Hindu Villages (1795-1818)
 

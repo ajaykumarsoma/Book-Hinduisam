@@ -1,6 +1,11 @@
-# THE SUPPRESSED MANUSCRIPT: What Abdullah Really Knew
+# Chapter 15: The Suppressed Manuscript — What Abdullah Really Knew
 
 **A Novel-Style Investigation into the Most Dangerous Document in Sai Baba History**
+
+> **📖 Related Chapters:**
+> [Chapter 13: Exposing Sai Baba](chapter_13_exposing_sai_baba.md) — The complete exposé with documentary evidence
+> [Chapter 16: Sai Baba Criminal Dynasty](chapter_16_sai_baba_origin_story_rewritten.md) — The Pindari origins and family history
+> [Chapter 14: Sai Baba FAQ](chapter_14_sai_baba_faq.md) — Questions answered
 
 ---
 

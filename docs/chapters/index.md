@@ -55,7 +55,7 @@ Discover how stone becomes a living conduit of divine consciousness through ritu
 
 ---
 
-### [Abdullah's Suppressed Manuscript — The Witness Who Knew Everything](abdullahs_suppressed_manuscript.md)
+### [Chapter 15: Abdullah's Suppressed Manuscript — The Witness Who Knew Everything](chapter_15_abdullahs_suppressed_manuscript.md)
 
 **Novel-style narrative of Sai Baba's nephew who documented the truth for 30 years**
 
@@ -73,13 +73,13 @@ Discover how stone becomes a living conduit of divine consciousness through ritu
 
 **Includes:** Complete visual narrative with 6 optimized diary images (WEBP)
 
-[Read Abdullah's Story →](abdullahs_suppressed_manuscript.md){ .md-button .md-button--primary }
+[Read Chapter 15 →](chapter_15_abdullahs_suppressed_manuscript.md){ .md-button .md-button--primary }
 
 </div>
 
 ---
 
-### [Sai Baba Origin Story — Criminal Dynasty Exposed](sai_baba_origin_story_rewritten.md)
+### [Chapter 16: Sai Baba Criminal Dynasty — Origin Story Exposed](chapter_16_sai_baba_origin_story_rewritten.md)
 
 **The detailed family history they don't want you to know**
 
@@ -95,7 +95,7 @@ Discover how stone becomes a living conduit of divine consciousness through ritu
 
 **Evidence:** Court records, census data, *Sai Satcharitra* admissions by omission
 
-[Read Origin Story →](sai_baba_origin_story_rewritten.md){ .md-button .md-button--primary }
+[Read Chapter 16 →](chapter_16_sai_baba_origin_story_rewritten.md){ .md-button .md-button--primary }
 
 </div>
 
