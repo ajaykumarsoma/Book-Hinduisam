@@ -84,6 +84,7 @@ plugins:
             Chapter 12 - Refuting Conspiracy Theories (New Age Distortions): అధ్యాయం 12 - కుట్ర సిద్ధాంతాల ఖండన (నూతన యుగ వక్రీకరణలు)
             Chapter 15 - Abdullah's Suppressed Manuscript (The Witness): అధ్యాయం 15 - అబ్దుల్లా యొక్క అణచివేయబడిన మాన్యుస్క్రిప్ట్ (సాక్షి)
             Chapter 16 - Sai Baba Criminal Dynasty (Pindari Origins): అధ్యాయం 16 - సాయిబాబా నేరస్థ రాజవంశం (పిండారీ మూలాలు)
+            Chapter 17 - Narasimhaswami Deception (Fabricated Hindu Saint Claims): అధ్యాయం 17 - నరసింహస్వామి మోసం (కల్పిత హిందూ సాధు వాదనలు)
             References: సూచనలు
             Complete Bibliography: పూర్తి గ్రంథ సూచిక
             Resources: వనరులు
@@ -167,6 +168,7 @@ nav:
     - Chapter 14 - Sai Baba FAQ (Frequently Asked Questions): chapters/chapter_14_sai_baba_faq.md
     - Chapter 15 - Abdullah's Suppressed Manuscript (The Witness): chapters/chapter_15_abdullahs_suppressed_manuscript.md
     - Chapter 16 - Sai Baba Criminal Dynasty (Pindari Origins): chapters/chapter_16_sai_baba_origin_story_rewritten.md
+    - Chapter 17 - Narasimhaswami Deception (Fabricated Hindu Saint Claims): chapters/chapter_17_narasimhaswami_deception.md
   - References:
     - Complete Bibliography: references/bibliography.md
   - Resources:
