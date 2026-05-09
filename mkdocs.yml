@@ -85,6 +85,8 @@ plugins:
             Chapter 15 - Abdullah's Suppressed Manuscript (The Witness): అధ్యాయం 15 - అబ్దుల్లా యొక్క అణచివేయబడిన మాన్యుస్క్రిప్ట్ (సాక్షి)
             Chapter 16 - Sai Baba Criminal Dynasty (Pindari Origins): అధ్యాయం 16 - సాయిబాబా నేరస్థ రాజవంశం (పిండారీ మూలాలు)
             Chapter 17 - Narasimhaswami Deception (Fabricated Hindu Saint Claims): అధ్యాయం 17 - నరసింహస్వామి మోసం (కల్పిత హిందూ సాధు వాదనలు)
+            Chapter 18 - Narasimhaswami Architect of Fraud (How One Man Created the Modern Cult): అధ్యాయం 18 - నరసింహస్వామి మోసం యొక్క శిల్పకారుడు (ఒకే వ్యక్తి ఆధునిక కల్ట్‌ను సృష్టించిన విధానం)
+            Chapter 19 - Scholarly Critiques Convergence (Four Academics Expose the Fraud): అధ్యాయం 19 - పండితుల విమర్శల కలయిక (నలుగురు విద్యావేత్తలు మోసాన్ని బహిర్గతం చేశారు)
             References: సూచనలు
             Complete Bibliography: పూర్తి గ్రంథ సూచిక
             Resources: వనరులు
@@ -169,6 +171,8 @@ nav:
     - Chapter 15 - Abdullah's Suppressed Manuscript (The Witness): chapters/chapter_15_abdullahs_suppressed_manuscript.md
     - Chapter 16 - Sai Baba Criminal Dynasty (Pindari Origins): chapters/chapter_16_sai_baba_origin_story_rewritten.md
     - Chapter 17 - Narasimhaswami Deception (Fabricated Hindu Saint Claims): chapters/chapter_17_narasimhaswami_deception.md
+    - Chapter 18 - Narasimhaswami Architect of Fraud (How One Man Created the Modern Cult): chapters/chapter_18_narasimhaswami_architect_of_fraud.md
+    - Chapter 19 - Scholarly Critiques Convergence (Four Academics Expose the Fraud): chapters/chapter_19_scholarly_critiques_convergence.md
   - References:
     - Complete Bibliography: references/bibliography.md
   - Resources:
