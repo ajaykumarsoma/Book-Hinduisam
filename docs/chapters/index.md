@@ -101,6 +101,102 @@ Discover how stone becomes a living conduit of divine consciousness through ritu
 
 ---
 
+### [Chapter 17: Narasimhaswami Deception — Fabricated Hindu Saint Claims](chapter_17_narasimhaswami_deception.md)
+
+**The systematic deception that Hinduized a Muslim fakir**
+
+<div class="chapter-card" markdown>
+
+**How selective editing and fabricated stories created a false narrative**
+
+**Topics covered:**
+- ✅ 18-year gap after Sai's death before "Hindu connections" appeared
+- ✅ Interview bias: 43 Hindus vs 4 Muslims
+- ✅ Selective quote mining from *Satcharitra*
+- ✅ Fabricated guru lineages (Swami Samarth, Dattatreya)
+- ✅ Creation of the "pan-Indian Hindu saint" myth
+
+[Read Chapter 17 →](chapter_17_narasimhaswami_deception.md){ .md-button .md-button--primary }
+
+</div>
+
+---
+
+### [Chapter 18: Narasimhaswami Architect of Fraud — How One Man Created the Modern Cult](chapter_18_narasimhaswami_architect_of_fraud.md)
+
+**The complete timeline of systematic Hinduization**
+
+<div class="chapter-card" markdown>
+
+**Detailed analysis of how B.V. Narasimhaswami transformed history**
+
+**Timeline:**
+- 1918: Sai Baba dies as obscure Muslim fakir
+- 1930: Dabholkar says "NEITHER Hindu NOR Muslim"
+- 1936: Narasimhaswami arrives (18 years too late)
+- 1939: Founds All India Sai Samaj (propaganda machine)
+- 1955: Publishes "Life of Sai Baba" (37 years after death!)
+
+**Evidence:** Academic sources from Dr. Karline McLain, Dr. Marianne Warren, Kevin R.D. Shepherd
+
+[Read Chapter 18 →](chapter_18_narasimhaswami_architect_of_fraud.md){ .md-button .md-button--primary }
+
+</div>
+
+---
+
+### [Chapter 19: Scholarly Critiques Convergence — Four Academics Expose the Fraud](chapter_19_scholarly_critiques_convergence.md)
+
+**Independent academics reach the same conclusion**
+
+<div class="chapter-card" markdown>
+
+**Four scholars, different disciplines, identical findings**
+
+**The Four Witnesses:**
+1. **Kevin R.D. Shepherd** (British historian) — Documented Hinduization timeline
+2. **Dr. Marianne Warren** (Sufi studies expert) — Confirmed Sufi fakir identity
+3. **Dr. Karline McLain** (Springer, 2018) — Exposed "politics of compositeness"
+4. **Antonio Rigopoulos** (Italian scholar) — Analyzed hagiographic manipulation
+
+**The Convergence:** All four independently confirm Sai was a Muslim fakir posthumously Hinduized
+
+[Read Chapter 19 →](chapter_19_scholarly_critiques_convergence.md){ .md-button .md-button--primary }
+
+</div>
+
+---
+
+### [Chapter 20: Exposing Pramod's Sai Baba Propaganda — The Self-Contradicting Defender](chapter_20_exposing_pramod_sai_propaganda.md)
+
+**The paid media operative defending the cult while attacking Hindu organizations**
+
+<div class="chapter-card" markdown>
+
+**1,180+ lines exposing a YouTube propagandist's tactics**
+
+**Who is Pramod?**
+- Runs YouTube channel "Sanatani Traveler"
+- Likely paid by Shirdi Sai Sansthan Trust (₹600+ crore empire)
+- Uses 5 propaganda techniques to defend Sai Baba
+- Admits using "vulgar, abusive language" (his own confession!)
+- Attacks ISKCON/Isha while defending Sai for the SAME violations
+
+**What this chapter proves:**
+- ✅ Pramod admits Sai has NO Guru Parampara, then defends him anyway
+- ✅ He deflects from Sai's problems by attacking other organizations
+- ✅ He lies about Arthashastra and Shankaracharya to support his narrative
+- ✅ He NEVER answers direct questions about Sai's Islamic identity
+- ✅ His tactics benefit Christianity & Islam (normalizing mosque worship, "Allah Malik")
+
+**Includes:** Analysis of 4 Telugu video scripts, documented Sansthan legal intimidation tactics, proof of paid media operations
+
+[Read Chapter 20 →](chapter_20_exposing_pramod_sai_propaganda.md){ .md-button .md-button--primary }
+
+</div>
+
+---
+
 ### [Chapter 14: Sai Baba FAQ — Questions Answered](chapter_14_sai_baba_faq.md)
 
 **Common questions about the Sai Baba exposé answered with evidence**
