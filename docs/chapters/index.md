@@ -195,6 +195,25 @@ Discover how stone becomes a living conduit of divine consciousness through ritu
 
 </div>
 
+<div class="card" markdown>
+### **Chapter 21: The Two Pillars Destroyed**
+
+Dattatreya Avatar and Guru Sampradaya Claims Demolished
+
+**Key Topics Covered:**
+- The Two Foundational Pillars of Sai worship systematically demolished
+- 15 Dattatreya avatar requirements — Sai fails ALL 15 (0/15 score)
+- 4 Hindu Guru requirements — Sai fails ALL 4 (0/4 score)
+- 12 Sufi Fakir characteristics — Sai matches ALL 12 (12/12 perfect score)
+- Comprehensive evidence proving Sai was a Muslim Sufi Fakir
+- Academic consensus and 1922 court case legal proof
+
+**Features:** 1,240+ lines of systematic refutation, comparative tables, devastating final questions
+
+    [Read Chapter →](chapter_21_two_pillars_destroyed.md){ .md-button .md-button--primary }
+
+</div>
+
 ---
 
 ### [Chapter 14: Sai Baba FAQ — Questions Answered](chapter_14_sai_baba_faq.md)
