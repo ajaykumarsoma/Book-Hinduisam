@@ -208,10 +208,28 @@ Dattatreya Avatar and Guru Sampradaya Claims Demolished
 - Comprehensive evidence proving Sai was a Muslim Sufi Fakir
 - Academic consensus and 1922 court case legal proof
 
-**Features:** 1,240+ lines of systematic refutation, comparative tables, devastating final questions
+[Read Chapter 21 →](chapter_21_two_pillars_destroyed.md){ .md-button }
+</div>
 
-    [Read Chapter →](chapter_21_two_pillars_destroyed.md){ .md-button .md-button--primary }
+<div class="card" markdown>
+### **Chapter 22: The Propagandist Network Exposed**
 
+Narasimhaswami's Successors - 70 Years of Continued Fraud (1956-2026)
+
+**Key Topics Covered:**
+- 10 major propagandists across 5 tiers who continued Hinduization fraud
+- ALL INDIA SAI SAMAJ: Narasimhaswami's own organization still operating 84 years!
+- Ekkirala Bharadwaja: "Telugu Narasimhaswami" who built ₹20-40 crore empire
+- Dr. Vinny Chitluri: American pediatrician who wrote 12+ books perpetuating fraud
+- Arthur Osborne: British propagandist who spread fraud to Western audience
+- Shirdi Sai Sansthan: ₹600+ CRORE annual revenue empire built on lies
+- Complete network diagram showing 70-year propagandist hydra
+- Financial incentives ensuring fraud continuation
+- Why they ALL ignore: 1922 court case, Abdul's notebook, Shankaracharya rejections
+
+**Features:** 1,150+ lines, 10 propagandists exposed, network diagram, ₹600+ crore empire revealed
+
+[Read Chapter 22 →](chapter_22_propagandist_network_exposed.md){ .md-button }
 </div>
 
 ---
