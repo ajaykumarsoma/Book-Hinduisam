@@ -230,7 +230,7 @@ hide:
 
 **THE MOST COMPREHENSIVE SAI BABA EXPOSÉ EVER WRITTEN**
 
-**8 devastating chapters totaling 8,500+ lines** that systematically destroy every claim of Sai Baba's "Hindu saint" status.
+**10 devastating chapters totaling 11,000+ lines** that systematically destroy every claim of Sai Baba's "Hindu saint" status.
 
 ---
 
@@ -332,21 +332,65 @@ hide:
 
 ---
 
+#### **Phase 5: The Propagandist Network & Final Pillar**
+
+**[Chapter 22: The Propagandist Network Exposed](chapters/chapter_22_propagandist_network_exposed.md)**
+- **1,150+ lines exposing the post-1956 fraud machine**
+- Identifies 10 major figures who continued Narasimhaswami's fraud
+- **Tier 1:** All India Sai Samaj (active since 1940) + Shirdi Sai Sansthan Trust
+- **Tier 2:** Arthur Osborne (British propagandist, exported to West, 1957)
+- **Tier 3:** Ekkirala Bharadwaja (Telugu fraud, millions of readers)
+- **Tier 4:** Vinny Chitluri (modern commentator, met Narasimhaswami at age 6!)
+- **Tier 5:** Academic enablers (Rigopoulos, Satpathy — "syncretism" excuse)
+- Proves: ALL modern books cite back to Narasimhaswami (circular referencing!)
+- Downloaded 37,729 lines from original sources for analysis
+- **Verdict:** 70-year unbroken fraud network still active today
+
+**[Chapter 23: The Avadhuta Fraud Exposed](chapters/chapter_23_avadhuta_fraud_exposed.md)** 🔥
+- **NEW!** **Destroys the THIRD pillar:** "Sai Baba was an Avadhuta"
+- **830+ lines with authentic Sanskrit verses** from:
+  - Avadhuta Upanishad (Muktika #79)
+  - Avadhuta Gita (Dattatreya's teachings)
+  - Turiyatita Avadhuta Upanishad
+  - Mahanirvana Tantra (Agamic rules)
+- **7 Requirements for being an Avadhuta →  Sai fails ALL 7 (0/7 score)**
+  - Must shake off ALL worldly bonds → Sai collected dakshina DAILY
+  - Must be beyond caste/sect → Sai maintained strict Islamic Fakir identity
+  - Must teach Atman-Brahman unity → Sai NEVER taught Vedanta
+  - Must perform NO rituals → Sai maintained dhuni, Urs festival daily
+  - Must be free from "I/mine" → Sai said "My Masjid," claimed personal miracles
+- **DEVASTATING AGAMIC PROHIBITION:**
+  - Even IF Sai were an Avadhuta (he wasn't), **Agamas PROHIBIT** worshipping Jivanmuktas/Avadhutas as temple deities!
+  - Mahanirvana Tantra 13.166: Avadhutas have NO RIGHT to worship Devas
+  - Historical precedent: ZERO Jivanmuktas ever enshrined (Ramana, Ramakrishna, Shankaracharya — NONE worshipped during life)
+  - Only Vedic/Puranic Devas can receive Prana Pratishtha (idol consecration)
+- **Verdict:** Shirdi Temple worship = DOUBLE VIOLATION (not an Avadhuta + Agamic prohibition)
+
+**THREE PILLARS NOW DESTROYED:**
+1. ✅ Dattatreya Avatar: 0/15 score (Chapter 21)
+2. ✅ Hindu Guru Sampradaya: 0/4 score (Chapter 21)
+3. ✅ Avadhuta Status: 0/7 score (Chapter 23)
+
+**TOTAL SCORE: 0/26 across all three claims**
+
+---
+
 ## 📊 **By The Numbers**
 
 ### **The Complete Arsenal**
 
 | Metric | Count |
 |--------|-------|
-| **Total Chapters** | 21 comprehensive |
-| **Total Lines** | 20,000+ |
+| **Total Chapters** | 23 comprehensive |
+| **Total Lines** | 22,000+ |
 | **Liṅga Defense Lines** | 3,700+ (Chapters 9-12) |
-| **Sai Baba Exposé Lines** | 8,500+ (Chapters 13-21) |
+| **Sai Baba Exposé Lines** | 11,000+ (Chapters 13-23) |
+| **Sanskrit Shlokas/Verses** | 35+ (Avadhuta, Agamas, Upanishads) |
 | **Socratic Questions** | 150+ killer questions |
 | **Logical Traps** | 6 no-escape binds |
-| **Āgamic Citations** | 20+ Sanskrit ślokas |
 | **Images** | 28+ (16 Liṅga + 6 Abdullah diary + 6 misc) |
 | **Academic Sources** | 150+ citations |
+| **Propagandist Books Downloaded** | 37,729 lines (Narasimhaswami Vols 1-3) |
 | **Archaeological Sites** | 20+ excavations |
 | **Civilizations Compared** | 7 cultures (pillar worship) |
 | **Conspiracy Theories Refuted** | 39 modern distortions |
