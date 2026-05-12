@@ -1,9 +1,33 @@
 site_name: "Hinduism: A Complete Journey"
-site_description: "A comprehensive, AI-assisted scholarly exploration of Hinduism"
-site_author: "AI Scholar Team"
+site_description: "Comprehensive Shastric defense of Hinduism - Exposing Sai Baba fraud with Sanskrit verses, Abdullah's diary, and academic research. 24 chapters, 23,300+ lines defending Linga worship and Hindu Dharma."
+site_author: "Hindu Dharma Defense Team"
 site_url: "https://hinduwarrior.github.io"
 repo_url: "https://github.com/HinduWarrior/hinduwarrior.github.io"
 repo_name: "hinduwarrior.github.io"
+
+# SEO and Social Media
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/HinduWarrior/hinduwarrior.github.io
+      name: GitHub Repository
+    - icon: fontawesome/solid/book
+      link: https://hinduwarrior.github.io
+      name: Read the Book Online
+  analytics:
+    provider: google
+    property: !ENV [GOOGLE_ANALYTICS_KEY, ""]
+  generator: false
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: తెలుగు (Telugu)
+      link: /te/
+      lang: te
+  # Google Search Console verification (add meta tag here once you get the code)
+  # verification:
+  #   google: "YOUR_VERIFICATION_CODE_HERE"
 
 docs_dir: docs
 site_dir: site
@@ -127,23 +151,6 @@ markdown_extensions:
       permalink: true
       permalink_title: Anchor link to this section
       toc_depth: 3
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/ajaykumarsoma/Book-Hinduisam
-      name: Source Code on GitHub
-    - icon: fontawesome/solid/book
-      link: https://ajaykumarsoma.github.io/Book-Hinduisam
-      name: Read Online
-  generator: false
-  alternate:
-    - name: English
-      link: /Book-Hinduisam/
-      lang: en
-    - name: తెలుగు (Telugu)
-      link: /Book-Hinduisam/te/
-      lang: te
 
 extra_css:
   - stylesheets/extra.css
