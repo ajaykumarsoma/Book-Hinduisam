@@ -366,12 +366,46 @@ hide:
   - Only Vedic/Puranic Devas can receive Prana Pratishtha (idol consecration)
 - **Verdict:** Shirdi Temple worship = DOUBLE VIOLATION (not an Avadhuta + Agamic prohibition)
 
-**THREE PILLARS NOW DESTROYED:**
+**[Chapter 24: Miracle Fraud & Medical Malpractice Exposed](chapters/chapter_24_miracle_fraud_medical_malpractice.md)** 🔥💀
+- **NEW!** **1,354 lines exposing the deadliest fraud:** Medical malpractice disguised as "miracles"
+- **Part 1:** The Central Hypocrisy
+  - Sai called **British doctor from Bombay** for his own arm fracture
+  - Gave **UDI (ash)** and **payasam** to dying devotees
+  - Used "karma" excuse when they died
+- **Part 2:** Medical Malpractice Cases (PRIMARY SOURCES):
+  - **Payasam Murders:** Sugar-heavy pudding prescribed for diabetes → deaths
+  - **Radha Krishna Mai:** Star devotee died despite "Baba's grace"
+  - **Eye Disease:** Non-sterile ash applied to eyes (infection risk!)
+  - **Tuberculosis:** 50-80% mortality without antibiotics → blamed on "karma"
+  - **Cholera:** Udi instead of ORS/clean water → deaths suppressed
+  - **Snake Bite:** 90% were dry bites (natural survival) → claimed as "miracle"
+- **Part 3:** Scientific Rigor Test
+  - **0/7 scientific standards met** (no dates, names, verification)
+  - **Selection bias exposed:** Only "successes" recorded, deaths hidden
+  - **Statistical failure:** No evidence Shirdi had better outcomes than other villages
+- **Part 4:** Propaganda Techniques
+  - "You lack faith" (blame victim)
+  - "It's karma" (excuse failures)
+  - "Mysterious ways" (unfalsifiable)
+  - "Western medicine is materialistic" (while using it himself!)
+- **Part 5:** Comparative Analysis
+  - **vs. Authentic Ayurveda:** Sai had NO system, NO diagnosis, NO specificity
+  - **vs. Christian miracles:** Equally unverifiable (Gospels contradict!)
+  - **vs. Islamic miracles:** Muhammad denied miracles (Quran 17:90-93)!
+- **Part 6:** The Death Toll
+  - **Estimated 72-144 preventable deaths** in Shirdi alone (conservative)
+  - **Ongoing deaths today** from following "Baba's medical advice"
+  - **Legal analysis:** Would be criminally negligent homicide if prosecuted today
+- **Conclusion:** Sai organizations' ₹600 crore empire **built on corpses**
+- **Verdict:** Medical fraud that CONTINUES TO KILL devotees today
+
+**FOUR PILLARS NOW DESTROYED:**
 1. ✅ Dattatreya Avatar: 0/15 score (Chapter 21)
 2. ✅ Hindu Guru Sampradaya: 0/4 score (Chapter 21)
 3. ✅ Avadhuta Status: 0/7 score (Chapter 23)
+4. ✅ Miracle Claims: 0/10 verification standards (Chapter 24)
 
-**TOTAL SCORE: 0/26 across all three claims**
+**TOTAL SCORE: 0/36 across all four foundational claims**
 
 ---
 
@@ -381,10 +415,10 @@ hide:
 
 | Metric | Count |
 |--------|-------|
-| **Total Chapters** | 23 comprehensive |
-| **Total Lines** | 22,000+ |
+| **Total Chapters** | 24 comprehensive |
+| **Total Lines** | 23,300+ |
 | **Liṅga Defense Lines** | 3,700+ (Chapters 9-12) |
-| **Sai Baba Exposé Lines** | 11,000+ (Chapters 13-23) |
+| **Sai Baba Exposé Lines** | 12,400+ (Chapters 13-24) |
 | **Sanskrit Shlokas/Verses** | 35+ (Avadhuta, Agamas, Upanishads) |
 | **Socratic Questions** | 150+ killer questions |
 | **Logical Traps** | 6 no-escape binds |
