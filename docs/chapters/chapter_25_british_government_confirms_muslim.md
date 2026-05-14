@@ -943,8 +943,10 @@ Sai Baba was **circumcised** (Islamic practice).
 
 10. **Sainath Prabha Magazine Archives** (Shirdi Sansthan official website)
     - URL: [https://www.sai.org.in/en/sainath-prabha](https://www.sai.org.in/en/sainath-prabha)
+    - Specific 1919 edition: [https://www.sai.org.in/en/content/sainath-prabha-year-1919](https://www.sai.org.in/en/content/sainath-prabha-year-1919)
     - Status: Official Shirdi Sansthan digital library
-    - Contains: Sainath Prabha year 1919 edition (1918 edition referenced in Telugu analysis)
+    - Contains: Sainath Prabha year 1919 edition (PDF available on official website)
+    - **Note:** The 1918 Collector's Order was published in the 1918/1919 edition of this magazine
     - **Significance:** Sai devotees' OWN website hosts the magazine that published the Collector's Order
 
 11. **1918 Hindu-Muslim Burial Dispute** (Documented by devotees)
@@ -968,8 +970,32 @@ Sai Baba was **circumcised** (Islamic practice).
     - Contains: Administrative reports from Ahmednagar District Magistrate's office
     - **Significance:** Independent verification that British District Collectors maintained official records
 
-15. **Academic Reference: Kevin R.D. Shepherd on 1918 Burial Dispute**
+15. **Additional Devotee Websites Confirming Collector Involvement:**
+
+    **a. Aura of Shirdi Sai** (Devotee website)
+    - URL: [https://auraofshirdisai.org/how-baba-was-interned-at-buti-wada/](https://auraofshirdisai.org/how-baba-was-interned-at-buti-wada/)
+    - Quote: "The Mamledar stated firmly that unless there was unanimity, he would not give permission... but **refer the matter to the Collector of Ahmednagar**."
+    - Quote: "Kakasaheb Dixit made preparations for going to Ahmednagar to **Collector himself**."
+    - **Significance:** CONFIRMS Mamledar referred case to Collector!
+
+    **b. Life History of Shirdi Sai Baba** (Official Saibaba.org)
+    - URL: [https://www.saibaba.org/lhossb/lhossb34.html](https://www.saibaba.org/lhossb/lhossb34.html)
+    - Quote: "On Wednesday morning **the tahsildar of Kopargaon Taluk** came and gathered the views of both the groups... Even then, **the tahsildar had no courage to take a decision, but wanted to act according to the orders of the District Collector, Ahmednagar**."
+    - **Significance:** Even official Sai devotee website admits Collector made final decision!
+
+    **c. Sri Sathya Sai Organization**
+    - URL: [https://www.ssshsb.com/post/sri-sathya-sai-on-shirdi-sai-baba-last-days-and-miracles-after-mahasamadhi](https://www.ssshsb.com/post/sri-sathya-sai-on-shirdi-sai-baba-last-days-and-miracles-after-mahasamadhi)
+    - Quote: "**To prevent clashes between the Hindus and the Muslims, the Collector, the Police Superintendent and other officials arrived there**. They decided to take the vote of the people to find out how the majority wanted the last rites to be done."
+    - **Significance:** CONFIRMS Collector personally arrived to prevent Hindu-Muslim violence!
+
+    **d. Shirdi Sai Baba Stories**
+    - URL: [https://shirdisaibabastories.org/2015/07/story-of-lord-sai-babas-samadhi/](https://shirdisaibabastories.org/2015/07/story-of-lord-sai-babas-samadhi/)
+    - Quote: "It is very well known that there were a lot of discussions about where to keep Baba. Some said in Dwarkamai, some suggested outside anywhere but not in Dwarkamai and the debate went on."
+    - **Significance:** Confirms major Hindu-Muslim dispute over burial
+
+16. **Academic Reference: Kevin R.D. Shepherd on 1918 Burial Dispute**
     - Source: *Sai Baba of Shirdi: A Biographical Investigation* (2015)
+    - URL: [https://www.kevinrdshepherd.info/shirdi_sai_baba_and_sai_baba_movement.html](https://www.kevinrdshepherd.info/shirdi_sai_baba_and_sai_baba_movement.html)
     - Mentions: Property disputes after Sai's death led to British government intervention
     - Confirms: Legal records exist from 1918 regarding Sai's estate and burial
 
