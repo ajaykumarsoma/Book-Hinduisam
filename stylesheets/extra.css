@@ -1,0 +1,159 @@
+/* Custom styling for Hinduism book */
+
+/* Hero section on home page */
+.hero {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(135deg, #ff6b35 0%, #f7931e 100%);
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.hero p {
+    font-size: 1.3rem;
+    opacity: 0.95;
+}
+
+/* Om symbol styling */
+.om-symbol {
+    font-size: 4rem;
+    margin: 1rem 0;
+    filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));
+}
+
+/* Sanskrit text styling */
+.sanskrit {
+    font-family: 'Noto Serif Devanagari', 'Crimson Text', serif;
+    font-size: 1.1em;
+    color: #d84315;
+    font-weight: 500;
+}
+
+/* Transliteration styling */
+.transliteration {
+    font-style: italic;
+    color: #e65100;
+    font-weight: 500;
+}
+
+/* Chapter cards */
+.chapter-card {
+    border: 2px solid #ff6b35;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.chapter-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(255, 107, 53, 0.2);
+}
+
+/* Admonitions custom colors */
+.md-typeset .admonition.sacred {
+    border-color: #ff6b35;
+}
+
+.md-typeset .admonition.sacred > .admonition-title {
+    background-color: rgba(255, 107, 53, 0.1);
+    border-color: #ff6b35;
+}
+
+/* Table of contents highlighting */
+.md-sidebar--secondary .md-sidebar__scrollwrap {
+    padding-right: 0.4rem;
+}
+
+/* Footer customization */
+.md-footer-meta {
+    background-color: #bf360c;
+}
+
+/* Mermaid diagram dark mode fix */
+[data-md-color-scheme="slate"] .mermaid {
+    background-color: transparent;
+}
+
+/* Quote blocks - special styling for Sanskrit quotes */
+.md-typeset blockquote {
+    border-left: 4px solid #ff6b35;
+    background-color: rgba(255, 107, 53, 0.05);
+    padding: 1rem 1.5rem;
+    font-style: italic;
+}
+
+/* Navigation tabs */
+.md-tabs {
+    background: linear-gradient(to right, #ff6b35, #f7931e);
+}
+
+/* Search box */
+.md-search__input {
+    border-radius: 20px;
+}
+
+/* Code blocks */
+.md-typeset code {
+    background-color: rgba(255, 107, 53, 0.1);
+    color: #bf360c;
+}
+
+/* Header styling */
+.md-typeset h1 {
+    color: #bf360c;
+    border-bottom: 3px solid #ff6b35;
+    padding-bottom: 0.5rem;
+}
+
+.md-typeset h2 {
+    color: #d84315;
+    border-bottom: 2px solid rgba(255, 107, 53, 0.3);
+    padding-bottom: 0.3rem;
+}
+
+/* Buttons */
+.md-button {
+    border-radius: 20px;
+    transition: all 0.3s;
+}
+
+.md-button:hover {
+    transform: scale(1.05);
+}
+
+.md-button--primary {
+    background-color: #ff6b35;
+}
+
+.md-button--primary:hover {
+    background-color: #d84315;
+}
+
+/* Image captions */
+.md-typeset img + em {
+    display: block;
+    text-align: center;
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 0.5rem;
+    font-style: italic;
+}
+
+/* Responsive typography */
+@media screen and (max-width: 768px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+    
+    .hero p {
+        font-size: 1.1rem;
+    }
+}
