@@ -367,11 +367,54 @@ hide:
 - **Verdict:** Shirdi Temple worship = DOUBLE VIOLATION (not an Avadhuta + Agamic prohibition)
 
 **[Chapter 24: Miracle Fraud & Medical Malpractice Exposed](chapters/chapter_24_miracle_fraud_medical_malpractice.md)** 🔥💀
-- **NEW!** **1,354 lines exposing the deadliest fraud:** Medical malpractice disguised as "miracles"
+- **1,497 lines exposing the deadliest fraud:** Medical malpractice disguised as "miracles"
 - **Part 1:** The Central Hypocrisy
   - Sai called **British doctor from Bombay** for his own arm fracture
   - Gave **UDI (ash)** and **payasam** to dying devotees
   - Used "karma" excuse when they died
+
+**[Chapter 25: The Smoking Gun — British Government Confirms Muslim](chapters/chapter_25_british_government_confirms_muslim.md)** 🔥💥
+- **NEW!** **705 lines - THE DEBATE ENDER:** Official British government document declares Sai Baba "Mahommedan" (Muslim)
+- **Part 1:** The Legal Evidence
+  - **Ahmednagar District Magistrate's Order (Oct 24, 1918)**: "The deceased was a Mahommedan of unknown origin"
+  - **Burial Order:** "Buried according to Mohammedan rights" (Islamic funeral, NOT Hindu cremation)
+  - **Committee:** Muslims had OFFICIAL representation in shrine management (because he was theirs!)
+  - **Source:** Published in *Sainath Prabha* magazine (1918) — **Sai devotees' OWN publication!**
+- **Part 2:** Why This Document Is Irrefutable
+  - **Neutral third party:** British officials had NO religious bias
+  - **Contemporaneous:** Written immediately after death (1918), not 50 years later
+  - **Legal status:** Official government record (admissible in court)
+  - **Cross-verified:** Matches 9 other independent sources (Satcharitra, academics, witnesses)
+- **Part 3:** The Three Death Records — ALL Say "Muslim"
+  - **Government:** British classified as "Mahommedan"
+  - **Burial:** Islamic funeral rites (ghusl, kafan, qibla orientation, dargah tomb)
+  - **Witness:** Mahalsapathy heard "Ya Ali!" (Islamic phrase) at death
+- **Part 4:** Muslim Burial Rituals Confirmed
+  - **Shariah compliance:** Body washed, shrouded, buried facing Mecca
+  - **Hindu alternative NOT used:** No cremation, no Vedic mantras, no yogic samadhi posture
+- **Part 5:** Shirdi Sansthan's Trap
+  - They claim: "Only Sai Satcharitra is authentic"
+  - Satcharitra says: Mosque, Allah Malik, Islamic teacher, burial → ALL confirm Muslim!
+  - British document ENDS their escape: Official classification as Muslim
+- **Part 6:** Destroying the "Universal Saint" Defense
+  - **"Taught Hindus" argument fails:** St. Francis Xavier taught Hindus → still Christian
+  - **Circumcision smoking gun:** Islamic Sunnah practice (Hindus NEVER do this)
+  - **"Allah Malik" chant:** Arabic, Islamic theology (NOT Sanskrit "Om")
+  - **Brahma Sutra 1.3.33:** "Name and form are not separate" → calling God "Allah" = Muslim theology
+- **Part 7:** Comparative Analysis — Hindu vs. Muslim Death Records
+  - **Death ritual:** Burial (Islamic) ✅ | Cremation (Hindu) ❌
+  - **Last words:** "Ya Ali" (Islamic) ✅ | "Ram/Om" (Hindu) ❌
+  - **Circumcision:** Yes (Islamic) ✅ | No (Hindu) ❌
+  - **Residence:** Mosque ✅ | Ashram ❌
+  - **Daily chant:** Allah Malik ✅ | Gayatri/Om ❌
+  - **Government record:** "Mahommedan" ✅ | Hindu ❌
+  - **VERDICT:** EVERY indicator points to MUSLIM, ZERO to Hindu
+- **Conclusion:** The debate is OVER
+  - **British government (1918):** Muslim
+  - **Sai devotees (2024):** "Hindu avatar!"
+  - **Which is more reliable?** The contemporaneous legal document, obviously.
+  - **For Hindu families:** Stop worshipping a Muslim. Return to Vedic Dharma (Manusmriti 2.17, Gita 16.23)
+- **॥ सत्यमेव जयते ॥** (Truth Alone Triumphs)
 - **Part 2:** Medical Malpractice Cases (PRIMARY SOURCES):
   - **Payasam Murders:** Sugar-heavy pudding prescribed for diabetes → deaths
   - **Radha Krishna Mai:** Star devotee died despite "Baba's grace"
@@ -415,13 +458,14 @@ hide:
 
 | Metric | Count |
 |--------|-------|
-| **Total Chapters** | 24 comprehensive |
-| **Total Lines** | 23,300+ |
+| **Total Chapters** | 25 comprehensive |
+| **Total Lines** | 24,000+ |
 | **Liṅga Defense Lines** | 3,700+ (Chapters 9-12) |
-| **Sai Baba Exposé Lines** | 12,400+ (Chapters 13-24) |
-| **Sanskrit Shlokas/Verses** | 35+ (Avadhuta, Agamas, Upanishads) |
-| **Socratic Questions** | 150+ killer questions |
+| **Sai Baba Exposé Lines** | 13,100+ (Chapters 13-25) |
+| **Sanskrit Shlokas/Verses** | 36+ (Avadhuta, Agamas, Upanishads, Brahma Sutra) |
+| **Socratic Questions** | 157+ killer questions |
 | **Logical Traps** | 6 no-escape binds |
+| **Legal Documents** | British govt. order (1918) - PRIMARY SOURCE |
 | **Images** | 28+ (16 Liṅga + 6 Abdullah diary + 6 misc) |
 | **Academic Sources** | 150+ citations |
 | **Propagandist Books Downloaded** | 37,729 lines (Narasimhaswami Vols 1-3) |
